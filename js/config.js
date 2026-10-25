@@ -3,7 +3,7 @@
 // ==========================================================
 window.NGC_CONFIG = {
   // Your Google Form link (the "Send" > link option). Leave "" to hide the button.
-  FORM_URL: "",
+  FORM_URL: "https://docs.google.com/forms/d/e/1FAIpQLScdlZwTfIAbd0lPH7DYPld3GX0Gok9QaD3IUOiM4N8VkzC8eg/viewform",
 
   // Shown on the About page as copyable text. Leave "" to hide it.
   CONTACT_EMAIL: "nextgenclimate.usa@gmail.com",
