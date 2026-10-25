@@ -1,0 +1,15 @@
+{
+  "_note": "News sources for the daily feed. Add or remove feeds here. Any feed that fails is skipped and noted in the GitHub Actions log.",
+  "feeds": [
+    { "name": "Canary Media", "url": "https://www.canarymedia.com/rss.rss" },
+    { "name": "Electrek", "url": "https://electrek.co/feed/" },
+    { "name": "CleanTechnica", "url": "https://cleantechnica.com/feed/" },
+    { "name": "Inside Climate News", "url": "https://insideclimatenews.org/feed/" },
+    { "name": "Grist", "url": "https://grist.org/feed/" },
+    { "name": "Carbon Brief", "url": "https://www.carbonbrief.org/feed/" },
+    { "name": "Yale Climate Connections", "url": "https://yaleclimateconnections.org/feed/" },
+    { "name": "TechCrunch Climate", "url": "https://techcrunch.com/category/climate/feed/" },
+    { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/climate-change/feed" },
+    { "name": "Heatmap", "url": "https://heatmap.news/feeds/feed.rss" }
+  ]
+}

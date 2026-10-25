@@ -1,0 +1,85 @@
+{
+  "_note": "Edit these links freely. Each group shows as a column on the Get Inspired page.",
+  "groups": [
+    {
+      "name": "Find a problem to solve",
+      "links": [
+        {
+          "title": "Project Drawdown",
+          "url": "https://drawdown.org/solutions",
+          "desc": "A research-backed list of climate solutions, ranked by impact."
+        },
+        {
+          "title": "NASA Climate Kids",
+          "url": "https://climatekids.nasa.gov",
+          "desc": "Clear explanations of climate science, good for younger students."
+        },
+        {
+          "title": "Our World in Data: CO₂ emissions",
+          "url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+          "desc": "Charts on where emissions come from, by country and sector."
+        }
+      ]
+    },
+    {
+      "name": "Build guides",
+      "links": [
+        {
+          "title": "Arduino Project Hub",
+          "url": "https://projecthub.arduino.cc",
+          "desc": "Thousands of sensor and electronics projects with code and wiring."
+        },
+        {
+          "title": "Raspberry Pi Projects",
+          "url": "https://projects.raspberrypi.org",
+          "desc": "Free step-by-step coding and hardware projects."
+        },
+        {
+          "title": "Science Buddies project ideas",
+          "url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas",
+          "desc": "Science fair ideas, including environmental engineering."
+        },
+        {
+          "title": "MIT App Inventor",
+          "url": "https://appinventor.mit.edu",
+          "desc": "Build a phone app with blocks, no prior coding needed."
+        }
+      ]
+    },
+    {
+      "name": "Data to work with",
+      "links": [
+        {
+          "title": "NOAA Climate.gov",
+          "url": "https://www.climate.gov",
+          "desc": "Maps, data, and teaching resources from NOAA."
+        },
+        {
+          "title": "NASA Earthdata",
+          "url": "https://www.earthdata.nasa.gov",
+          "desc": "Satellite data on temperature, sea level, air quality, and more."
+        }
+      ]
+    },
+    {
+      "name": "Take it further",
+      "links": [
+        {
+          "title": "Conrad Challenge",
+          "url": "https://www.conradchallenge.org",
+          "desc": "An innovation competition for students ages 13 to 18."
+        },
+        {
+          "title": "Regeneron ISEF",
+          "url": "https://www.societyforscience.org/isef/",
+          "desc": "The largest international high school science fair."
+        },
+        {
+          "title": "Congressional App Challenge",
+          "url": "https://www.congressionalappchallenge.us",
+          "desc": "A US competition for student-built apps, judged by your district."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!--HEAD-START-->
+<title>NextGen Climate</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="NextGen Climate is a youth network for climate solutions built with engineering, technology, and community action. Share your project, get on the map, and earn a certificate.">
+<meta name="theme-color" content="#1a5a1f">
+<link rel="icon" href="assets/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/logo-mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@700;800;900&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<!--HEAD-END-->
+</head>
+<body>
+<!--BODY-START-->
+<!-- Icon set (Lucide-style outlines). Use with <svg class="i"><use href="#i-name"/></svg>. -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 5l7 7-7 7"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></symbol>
+    <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 19V5M5 12l7-7 7 7"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></symbol>
+    <symbol id="i-award" viewBox="0 0 24 24"><circle cx="12" cy="8" r="6"/><path d="M15.5 12.9 17 22l-5-3-5 3 1.5-9.1"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M15 3h6v6M10 14 21 3M21 14v5a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5"/></symbol>
+    <symbol id="i-instagram" viewBox="0 0 24 24"><rect x="2.5" y="2.5" width="19" height="19" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5h.01"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></symbol>
+    <symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 4 10 15 15 0 0 1-4 10 15 15 0 0 1-4-10 15 15 0 0 1 4-10z"/></symbol>
+    <symbol id="i-gift" viewBox="0 0 24 24"><path d="M20 12v10H4V12M2 7h20v5H2zM12 22V7M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7zM12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24"><path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></symbol>
+    <symbol id="i-shuffle" viewBox="0 0 24 24"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></symbol>
+    <symbol id="i-link" viewBox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></symbol>
+    <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M21 12a9 9 0 0 1-15.5 6.2L3 16M3 12a9 9 0 0 1 15.5-6.2L21 8M21 3v5h-5M3 21v-5h5"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12M6 11l6 6 6-6M4 21h16"/></symbol>
+    <!-- categories -->
+    <symbol id="c-energy" viewBox="0 0 24 24"><path d="M13 2 4 14h8l-1 8 9-12h-8l1-8z"/></symbol>
+    <symbol id="c-transport" viewBox="0 0 24 24"><circle cx="5.5" cy="17.5" r="3.5"/><circle cx="18.5" cy="17.5" r="3.5"/><path d="M15 6h.01M12 17.5V14l-3-3 4-3 2 3h2"/></symbol>
+    <symbol id="c-food" viewBox="0 0 24 24"><path d="M7 20h10M10 20c5.5-2.5.8-6.4 3-10M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5.4-4.8-.3-1.2-.6-2.3-1.9-3-4.2 2.8-.5 4.4 0 5.5.8zM14.1 6a7 7 0 0 0-1.1 4c1.9-.1 3.3-.6 4.3-1.4 1-1 1.6-2.3 1.7-4.6-2.7.1-4 1-4.9 2z"/></symbol>
+    <symbol id="c-water" viewBox="0 0 24 24"><path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5S12.5 5.5 12 3c-.5 2.5-2 4.9-4 6.5S5 13 5 15a7 7 0 0 0 7 7z"/></symbol>
+    <symbol id="c-materials" viewBox="0 0 24 24"><path d="M21 8a2 2 0 0 0-1-1.7l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.7l7 4a2 2 0 0 0 2 0l7-4a2 2 0 0 0 1-1.7z"/><path d="m3.3 7 8.7 5 8.7-5M12 22V12"/></symbol>
+    <symbol id="c-buildings" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></symbol>
+    <symbol id="c-carbon" viewBox="0 0 24 24"><path d="M17.7 7.7A2.5 2.5 0 1 1 19.5 12H2M9.6 4.6A2 2 0 1 1 11 8H2M12.6 19.4A2 2 0 1 0 14 16H2"/></symbol>
+    <symbol id="c-data" viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 1v3M15 1v3M9 20v3M15 20v3M20 9h3M20 14h3M1 9h3M1 14h3"/></symbol>
+    <symbol id="c-education" viewBox="0 0 24 24"><path d="M22 10 12 5 2 10l10 5 10-5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></symbol>
+    <symbol id="c-policy" viewBox="0 0 24 24"><path d="M3 22h18M6 18v-7M10 18v-7M14 18v-7M18 18v-7M12 2l8 5H4z"/></symbol>
+    <symbol id="c-other" viewBox="0 0 24 24"><path d="M9 18h6M10 22h4M15.1 14c.2-1 .7-1.7 1.4-2.5A4.7 4.7 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.4 2.5"/></symbol>
+  </defs>
+</svg>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#home" aria-label="NextGen Climate home">
+      <img class="brand-logo" id="brand-logo" src="assets/logo-mark.png" alt="" width="44" height="44">
+      <span class="wordmark"><b>NEXTGEN</b><small>CLIMATE</small></span>
+    </a>
+    <button class="theme-btn" id="theme-btn" type="button" aria-label="Switch to dark theme">
+      <svg class="i i-moon" aria-hidden="true"><use href="#i-moon"/></svg>
+      <svg class="i i-sun" aria-hidden="true"><use href="#i-sun"/></svg>
+    </button>
+    <button class="menu-btn" id="menu-btn" type="button" aria-expanded="false" aria-controls="nav">
+      <svg class="i i-open" aria-hidden="true"><use href="#i-menu"/></svg>
+      <svg class="i i-shut" aria-hidden="true"><use href="#i-close"/></svg>
+      <span>Menu</span>
+    </button>
+    <nav id="nav" class="nav" aria-label="Main">
+      <a href="#news">News</a>
+      <a href="#wall">Solutions Wall</a>
+      <a href="#map">Map</a>
+      <a href="#inspire">Get Inspired</a>
+      <a href="#certificate">Certificate</a>
+      <a href="#about">About</a>
+      <a class="nav-cta" href="#submit"><svg class="i" aria-hidden="true"><use href="#i-upload"/></svg>Submit</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- HOME -->
+  <section class="view" data-view="home">
+    <div class="hero-band">
+      <svg class="blob blob-a" viewBox="0 0 200 200" aria-hidden="true"><path d="M44.7,-58.3C57.1,-49.1,66,-34.8,70.6,-18.9C75.2,-3,75.4,14.4,68.4,28.1C61.4,41.8,47.2,51.8,31.9,59.4C16.6,67,0.2,72.2,-17.6,70.9C-35.4,69.6,-54.6,61.8,-65.4,47.6C-76.2,33.4,-78.6,12.8,-74.2,-5.6C-69.8,-24,-58.6,-40.2,-44.4,-49.3C-30.2,-58.4,-15.1,-60.4,0.7,-61.3C16.5,-62.2,32.3,-67.5,44.7,-58.3Z" transform="translate(100 100)"/></svg>
+      <svg class="blob blob-b" viewBox="0 0 200 200" aria-hidden="true"><path d="M38.5,-47.7C50.6,-36.9,61.4,-24.6,64.9,-10.1C68.4,4.4,64.6,21.1,55.4,33.6C46.2,46.1,31.6,54.4,15.6,60.3C-0.4,66.2,-17.8,69.7,-31.6,63.6C-45.4,57.5,-55.6,41.8,-61.9,24.8C-68.2,7.8,-70.6,-10.5,-63.9,-24.6C-57.2,-38.7,-41.4,-48.6,-26.6,-58.4C-11.8,-68.2,2,-77.9,14.6,-74.9C27.2,-71.9,26.4,-58.5,38.5,-47.7Z" transform="translate(100 100)"/></svg>
+      <div class="wrap hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="dot" aria-hidden="true"></span>Youth climate-tech network</p>
+          <h1 class="display">Engineer the&nbsp;<span class="hl">change.</span></h1>
+          <p class="lede">NextGen Climate educates and mobilizes the next generation of bold problem-solvers to create impactful climate solutions through engineering, technology, and community action.</p>
+          <div class="actions">
+            <a class="btn btn-primary btn-lg" href="#submit">Submit your solution <svg class="i" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+            <a class="btn btn-ghost btn-lg" href="#wall">See what students built</a>
+          </div>
+          <ul class="trust" aria-label="Why join">
+            <li><svg class="i" aria-hidden="true"><use href="#i-gift"/></svg>Free to join</li>
+            <li><svg class="i" aria-hidden="true"><use href="#i-globe"/></svg>Open worldwide</li>
+            <li><svg class="i" aria-hidden="true"><use href="#i-award"/></svg>Certificate included</li>
+          </ul>
+        </div>
+        <div class="readout glow" aria-label="Network impact so far">
+          <div class="readout-head">
+            <span class="mono">LIVE IMPACT</span>
+            <span class="mono readout-time" id="stats-updated">—</span>
+          </div>
+          <dl class="readout-grid">
+            <div><dt>Innovators</dt><dd id="stat-innovators">0</dd></div>
+            <div><dt>Schools</dt><dd id="stat-schools">0</dd></div>
+            <div><dt>Countries</dt><dd id="stat-countries">0</dd></div>
+            <div><dt>Solutions</dt><dd id="stat-submissions">0</dd></div>
+          </dl>
+          <a class="readout-link" href="#map"><svg class="i" aria-hidden="true"><use href="#i-pin"/></svg>See them on the map <svg class="i" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+          <p class="readout-note" id="stats-note" hidden>Counting example entries until real submissions arrive.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="wrap section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">How it works</p>
+          <h2 class="h-section">Three steps to get your idea seen</h2>
+        </div>
+      </div>
+      <ol class="steps">
+        <li>
+          <a class="step glow" href="#submit">
+            <span class="step-icon"><svg class="i" aria-hidden="true"><use href="#i-upload"/></svg></span>
+            <span class="step-num mono">Step 1</span>
+            <h3>Share a solution</h3>
+            <p>Any climate project, invention, or well-explained idea counts. School, club, or your own.</p>
+            <span class="step-go">How to submit <svg class="i" aria-hidden="true"><use href="#i-arrow"/></svg></span>
+          </a>
+        </li>
+        <li>
+          <a class="step glow" href="#map">
+            <span class="step-icon"><svg class="i" aria-hidden="true"><use href="#i-pin"/></svg></span>
+            <span class="step-num mono">Step 2</span>
+            <h3>Get on the map</h3>
+            <p>Once approved, your work appears on the Solutions Wall and the world map.</p>
+            <span class="step-go">Explore the map <svg class="i" aria-hidden="true"><use href="#i-arrow"/></svg></span>
+          </a>
+        </li>
+        <li>
+          <a class="step glow" href="#certificate">
+            <span class="step-icon"><svg class="i" aria-hidden="true"><use href="#i-award"/></svg></span>
+            <span class="step-num mono">Step 3</span>
+            <h3>Earn your certificate</h3>
+            <p>Download a NextGen Climate Innovator certificate for your resume or service hours.</p>
+            <span class="step-go">Get your certificate <svg class="i" aria-hidden="true"><use href="#i-arrow"/></svg></span>
+          </a>
+        </li>
+      </ol>
+    </div>
+
+    <div class="wrap section" id="spark-sec">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Idea generator</p>
+          <h2 class="h-section">Stuck? Spin up a project idea</h2>
+        </div>
+        <a class="link-arrow" href="#inspire">Take the innovator quiz</a>
+      </div>
+      <div class="spark">
+        <div class="reels">
+          <button class="reel" type="button" data-reel="0" aria-label="Spin a new place"><span class="reel-label mono">Where</span><span class="reel-val">School cafeteria</span><svg class="i reel-spin" aria-hidden="true"><use href="#i-refresh"/></svg></button>
+          <button class="reel" type="button" data-reel="1" aria-label="Spin a new problem"><span class="reel-label mono">The problem</span><span class="reel-val">Food waste</span><svg class="i reel-spin" aria-hidden="true"><use href="#i-refresh"/></svg></button>
+          <button class="reel" type="button" data-reel="2" aria-label="Spin a new tool"><span class="reel-label mono">Your tool</span><span class="reel-val">Arduino sensor</span><svg class="i reel-spin" aria-hidden="true"><use href="#i-refresh"/></svg></button>
+        </div>
+        <p class="spark-idea" id="spark-idea" aria-live="polite">In your school cafeteria, too much food gets thrown away. Tackle it with an Arduino sensor.</p>
+        <div class="spark-actions">
+          <button class="btn btn-primary" id="spark-spin" type="button"><svg class="i" aria-hidden="true"><use href="#i-shuffle"/></svg>Spin all three</button>
+          <a class="btn btn-ghost" id="spark-similar" href="#wall">See similar projects</a>
+          <p class="small muted">Tap a box to re-spin just that one.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="wrap section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Spotlight</p>
+          <h2 class="h-section">This week's Featured Innovator</h2>
+        </div>
+        <a class="link-arrow" href="#wall">All solutions</a>
+      </div>
+      <article class="featured" id="featured"></article>
+    </div>
+
+    <div class="wrap section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Counted from approved entries</p>
+          <h2 class="h-section">What students are building</h2>
+        </div>
+        <a class="link-arrow" href="#wall">Browse the wall</a>
+      </div>
+      <ul class="bars" id="cat-bars" aria-label="Solutions by category"></ul>
+    </div>
+
+    <div class="wrap section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Updated every morning</p>
+          <h2 class="h-section">Latest in climate + tech</h2>
+        </div>
+        <a class="link-arrow" href="#news">All news</a>
+      </div>
+      <ol class="news-list" id="home-news"></ol>
+    </div>
+
+    <div class="wrap section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Community</p>
+          <h2 class="h-section">From our Instagram</h2>
+        </div>
+        <a class="link-arrow" id="ig-follow" href="https://www.instagram.com/nextgen_climate/" target="_blank" rel="noopener">@nextgen_climate</a>
+      </div>
+      <div class="ig-grid" id="ig-grid"></div>
+    </div>
+
+    <div class="wrap section">
+      <div class="cta-band">
+        <svg class="blob blob-c" viewBox="0 0 200 200" aria-hidden="true"><path d="M44.7,-58.3C57.1,-49.1,66,-34.8,70.6,-18.9C75.2,-3,75.4,14.4,68.4,28.1C61.4,41.8,47.2,51.8,31.9,59.4C16.6,67,0.2,72.2,-17.6,70.9C-35.4,69.6,-54.6,61.8,-65.4,47.6C-76.2,33.4,-78.6,12.8,-74.2,-5.6C-69.8,-24,-58.6,-40.2,-44.4,-49.3C-30.2,-58.4,-15.1,-60.4,0.7,-61.3C16.5,-62.2,32.3,-67.5,44.7,-58.3Z" transform="translate(100 100)"/></svg>
+        <div class="cta-copy">
+          <h2>Built something for the planet?</h2>
+          <p>Share it with young innovators around the world. Not sure where to start? Grab an idea first.</p>
+        </div>
+        <div class="actions">
+          <a class="btn btn-solar btn-lg" href="#submit">Submit your solution <svg class="i" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+          <a class="btn btn-ghost-light btn-lg" href="#inspire">Get inspired</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- NEWS -->
+  <section class="view" data-view="news" hidden>
+    <div class="wrap page-head">
+      <p class="eyebrow">Updated every morning</p>
+      <h1 class="display-sm">Climate + Tech News</h1>
+      <p class="lede">Headlines from climate and clean-tech newsrooms, sorted by topic. Each story links to the original source.</p>
+      <p class="mono small" id="news-updated"></p>
+    </div>
+    <div class="wrap">
+      <div class="chips" id="news-filters" role="toolbar" aria-label="Filter news by topic"></div>
+      <ol class="news-list news-list-full" id="news-list"></ol>
+      <p class="empty" id="news-empty" hidden>No stories in this topic right now. Try another filter.</p>
+    </div>
+  </section>
+
+  <!-- WALL -->
+  <section class="view" data-view="wall" hidden>
+    <div class="wrap page-head">
+      <p class="eyebrow">Built by students</p>
+      <h1 class="display-sm">Solutions Wall</h1>
+      <p class="lede">Climate projects, inventions, and ideas from young innovators around the world.</p>
+    </div>
+    <div class="wrap">
+      <div class="filters">
+        <label class="field field-grow">
+          <span>Search</span>
+          <input id="wall-search" type="search" placeholder="Project, school, or name">
+        </label>
+        <label class="field">
+          <span>Country</span>
+          <select id="wall-country"><option value="">All countries</option></select>
+        </label>
+      </div>
+      <div class="chips" id="wall-cats" role="toolbar" aria-label="Filter by category"></div>
+      <div class="wall-bar">
+        <p class="mono small" id="wall-count" aria-live="polite"></p>
+        <button class="btn-text" id="wall-clear" type="button" hidden><svg class="i" aria-hidden="true"><use href="#i-close"/></svg>Clear filters</button>
+      </div>
+      <div class="cards" id="wall-cards"></div>
+      <p class="empty" id="wall-empty" hidden>No solutions match these filters yet. Be the first: <a href="#submit">submit yours</a>.</p>
+    </div>
+  </section>
+
+  <!-- MAP -->
+  <section class="view" data-view="map" hidden>
+    <div class="wrap page-head">
+      <p class="eyebrow">Our network</p>
+      <h1 class="display-sm">Innovator Map</h1>
+      <p class="lede">Every circle is a country with approved solutions. Bigger circles mean more innovators. Select one to see its projects.</p>
+    </div>
+    <div class="wrap">
+      <div class="map-frame">
+        <svg id="world-map" role="img" aria-label="World map of NextGen Climate innovators"></svg>
+        <div class="map-tip" id="map-tip" hidden></div>
+      </div>
+      <h2 class="list-label mono">Browse by country</h2>
+      <ul class="country-list" id="country-list"></ul>
+    </div>
+  </section>
+
+  <!-- SUBMIT -->
+  <section class="view" data-view="submit" hidden>
+    <div class="wrap page-head">
+      <p class="eyebrow">Join the network</p>
+      <h1 class="display-sm">Submit your solution</h1>
+      <p class="lede">Built something? Designed something? Have a well-thought-out idea? Share it. Approved entries go on the Solutions Wall and map, and you get a certificate.</p>
+    </div>
+    <div class="wrap">
+      <ol class="stepper" aria-label="What happens">
+        <li><span class="stepper-n">1</span><div><b>Check it counts</b><span>See the list below</span></div></li>
+        <li><span class="stepper-n">2</span><div><b>Fill in the form</b><span>10 short questions</span></div></li>
+        <li><span class="stepper-n">3</span><div><b>We review it</b><span>Then it goes on the wall</span></div></li>
+      </ol>
+    </div>
+    <div class="wrap submit-grid">
+      <div class="panel panel-main">
+        <h2>What counts</h2>
+        <ul class="ticks">
+          <li>A built project: a sensor, an app, a prototype, a model, a garden system</li>
+          <li>An invention or design, even if it is only on paper</li>
+          <li>A clearly explained idea for a climate problem in your community</li>
+          <li>Group projects: one teammate submits and lists the project</li>
+        </ul>
+        <h2>What you will need</h2>
+        <ul class="ticks">
+          <li>Your first name and school</li>
+          <li>A project title and a description of up to 80 words</li>
+          <li>Optional: a link to a photo of the project</li>
+        </ul>
+        <a class="btn btn-primary btn-wide btn-lg" id="form-link" href="#" target="_blank" rel="noopener">Open the submission form <svg class="i" aria-hidden="true"><use href="#i-external"/></svg></a>
+        <p class="notice" id="form-missing" hidden><svg class="i" aria-hidden="true"><use href="#i-instagram"/></svg><span>The submission form opens soon. Check back, or <a href="https://www.instagram.com/nextgen_climate/" target="_blank" rel="noopener">follow us on Instagram</a> for the launch.</span></p>
+        <p class="small muted">Need an idea first? <a href="#inspire">Browse project ideas</a>.</p>
+      </div>
+      <aside class="panel panel-quiet">
+        <h2 class="h-icon"><svg class="i" aria-hidden="true"><use href="#i-shield"/></svg>Privacy rules</h2>
+        <ul class="ticks">
+          <li>We only show your first name, school, and country.</li>
+          <li>Your email stays private. We use it only to contact you about your entry.</li>
+          <li>Please don't include faces in photos.</li>
+          <li>Under 13? A parent or guardian must submit for you.</li>
+          <li>Every entry is reviewed before it appears on the site.</li>
+        </ul>
+        <p class="small muted">New entries usually appear within a few days of approval.</p>
+      </aside>
+    </div>
+  </section>
+
+  <!-- CERTIFICATE -->
+  <section class="view" data-view="certificate" hidden>
+    <div class="wrap page-head">
+      <p class="eyebrow">For approved innovators</p>
+      <h1 class="display-sm">Get your certificate</h1>
+      <p class="lede">Find your approved entry by first name and school, then download your NextGen Climate Innovator certificate.</p>
+    </div>
+    <div class="wrap cert-grid">
+      <div class="panel">
+        <label class="field">
+          <span><span class="field-step">1</span>Search your first name or school</span>
+          <input id="cert-search" type="search" placeholder="e.g. Maya or Lincoln High" autocomplete="off">
+        </label>
+        <ul class="cert-results" id="cert-results" aria-live="polite"></ul>
+        <label class="field" id="cert-name-field" hidden>
+          <span><span class="field-step">2</span>Name on certificate</span>
+          <input id="cert-name" type="text" maxlength="60" autocomplete="name">
+        </label>
+        <p class="small muted">Not listed? Entries appear after they're approved. If yours was approved more than a week ago, <a href="#about">contact us</a>.</p>
+      </div>
+      <div class="cert-preview">
+        <canvas id="cert-canvas" width="1600" height="1131" aria-label="Certificate preview"></canvas>
+        <button class="btn btn-primary btn-wide btn-lg" id="cert-download" type="button" disabled><svg class="i" aria-hidden="true"><use href="#i-download"/></svg>Download PDF</button>
+        <p class="small muted" id="cert-status">Pick your entry on the left to unlock the download.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- INSPIRE -->
+  <section class="view" data-view="inspire" hidden>
+    <div class="wrap page-head">
+      <p class="eyebrow">Need a starting point?</p>
+      <h1 class="display-sm">Get Inspired</h1>
+      <p class="lede">Free guides, project ideas, and challenges from around the web. Pick one, make it your own, then share it with us.</p>
+    </div>
+    <div class="wrap">
+      <section class="quiz" id="quiz" aria-labelledby="quiz-title">
+        <div class="quiz-head">
+          <div>
+            <p class="eyebrow">4 quick questions</p>
+            <h2 id="quiz-title">What kind of climate innovator are you?</h2>
+          </div>
+          <span class="mono quiz-step" id="quiz-step"></span>
+        </div>
+        <div class="quiz-track" aria-hidden="true"><span id="quiz-fill"></span></div>
+        <div id="quiz-body" aria-live="polite"></div>
+      </section>
+      <div class="surprise">
+        <button class="btn btn-primary" id="surprise-btn" type="button"><svg class="i" aria-hidden="true"><use href="#i-shuffle"/></svg>Surprise me</button>
+        <p class="small muted" id="surprise-out" aria-live="polite">Can't choose? Let us pick a starting point for you.</p>
+      </div>
+      <div class="inspire" id="inspire-list"></div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="view" data-view="about" hidden>
+    <div class="wrap page-head">
+      <p class="eyebrow">About us</p>
+      <h1 class="display-sm">Why NextGen Climate exists</h1>
+    </div>
+    <div class="wrap about-grid">
+      <div class="prose">
+        <h2>A call to action</h2>
+        <p>In the summer of 2025, co-founder Jiarui Li took part in Brown's Leadership Institute Summer Entrepreneurship Program. She noticed that many climate organizations focus on raising awareness but stop short of actionable solutions. In a world that advances through technology, young people can use that same innovation to solve problems. Back home, she shared the idea with two friends, and together they turned it into NextGen Climate.</p>
+        <h2>Our mission</h2>
+        <p>As infrastructure and innovation advance, the environmental consequences are too often overlooked. NextGen Climate empowers youth leaders to explore and create climate solutions through engineering, technology, and community action. We educate, inspire, and mobilize young people to become bold problem-solvers and strong voices for a sustainable future.</p>
+      </div>
+      <aside class="panel">
+        <h2>Team</h2>
+        <ul class="team" id="team-list"></ul>
+        <h2>Contact</h2>
+        <p class="contact-line"><span class="mono" id="contact-email"></span> <button class="btn-copy" id="copy-email" type="button"><svg class="i" aria-hidden="true"><use href="#i-copy"/></svg>Copy</button></p>
+        <p><a class="link-arrow" id="insta-link" href="https://www.instagram.com/nextgen_climate/" target="_blank" rel="noopener">@nextgen_climate on Instagram</a></p>
+      </aside>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap footer-inner">
+    <div class="footer-brand">
+      <a class="brand" href="#home" aria-label="NextGen Climate home">
+        <img class="brand-logo" src="assets/logo-mark.png" alt="" width="40" height="40">
+        <span class="wordmark"><b>NEXTGEN</b><small>CLIMATE</small></span>
+      </a>
+      <p>Empowering youth leaders to engineer change.</p>
+      <a class="footer-ig" href="https://www.instagram.com/nextgen_climate/" target="_blank" rel="noopener"><svg class="i" aria-hidden="true"><use href="#i-instagram"/></svg>@nextgen_climate</a>
+    </div>
+    <nav class="footer-links" aria-label="Footer">
+      <div>
+        <h2 class="mono">Explore</h2>
+        <a href="#wall">Solutions Wall</a>
+        <a href="#map">Innovator Map</a>
+        <a href="#news">News</a>
+      </div>
+      <div>
+        <h2 class="mono">Take part</h2>
+        <a href="#submit">Submit a solution</a>
+        <a href="#inspire">Get inspired</a>
+        <a href="#certificate">Certificate</a>
+      </div>
+      <div>
+        <h2 class="mono">Organization</h2>
+        <a href="#about">About us</a>
+        <a href="#about">Contact</a>
+        <a id="admin-link" href="#" target="_blank" rel="noopener" hidden>Team login</a>
+      </div>
+    </nav>
+  </div>
+  <div class="wrap footer-fine">
+    <p class="small muted">News headlines link to their original publishers. Student entries are shared with permission.</p>
+  </div>
+</footer>
+
+<dialog class="sheet" id="sub-dialog" aria-labelledby="sub-title">
+  <div class="sheet-media" id="sub-media"></div>
+  <div class="sheet-body">
+    <button class="sheet-close" id="sub-close" type="button" aria-label="Close"><svg class="i" aria-hidden="true"><use href="#i-close"/></svg></button>
+    <div class="sheet-badges" id="sub-badges"></div>
+    <h2 id="sub-title"></h2>
+    <p class="featured-who" id="sub-who"></p>
+    <p class="muted" id="sub-desc"></p>
+    <div class="sheet-actions">
+      <button class="btn btn-ghost" id="sub-country" type="button"><svg class="i" aria-hidden="true"><use href="#i-pin"/></svg><span></span></button>
+      <button class="btn btn-ghost" id="sub-share" type="button"><svg class="i" aria-hidden="true"><use href="#i-link"/></svg>Copy link</button>
+      <a class="btn btn-primary" id="sub-cert" href="#certificate"><svg class="i" aria-hidden="true"><use href="#i-award"/></svg>Is this you? Get the certificate</a>
+    </div>
+  </div>
+</dialog>
+
+<div class="toast" id="toast" role="status" hidden></div>
+<!--BODY-END-->
+
+<!--SCRIPTS-START-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.world.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/countries.js"></script>
+<script src="js/map.js"></script>
+<script src="js/certificate.js"></script>
+<script src="js/app.js"></script>
+<!--SCRIPTS-END-->
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "_note": "Keyword rules for tagging news. The first tag with the most keyword hits wins. Keywords match whole words and are case-insensitive.",
+  "tags": {
+    "Energy": ["solar", "wind", "battery", "batteries", "grid", "renewable", "renewables", "geothermal", "nuclear", "fusion", "hydrogen", "power plant", "utility", "utilities", "electricity", "energy storage", "heat pump", "offshore wind", "transmission", "clean energy", "photovoltaic", "coal", "natural gas"],
+    "Transport": ["ev", "evs", "electric vehicle", "electric vehicles", "tesla", "charging", "charger", "chargers", "e-bike", "ebike", "transit", "bus", "buses", "rail", "train", "aviation", "airline", "flight", "shipping", "truck", "trucks", "car", "cars", "rivian", "scooter"],
+    "Food & Ag": ["farm", "farms", "farmer", "farmers", "agriculture", "agricultural", "crop", "crops", "food", "soil", "livestock", "cattle", "methane from cows", "fertilizer", "meat", "plant-based"],
+    "Carbon Removal": ["carbon removal", "carbon capture", "direct air capture", "dac", "sequestration", "ccs", "biochar", "carbon credits", "carbon credit", "offsets", "carbon dioxide removal", "enhanced weathering"],
+    "Water": ["water", "drought", "flood", "flooding", "ocean", "oceans", "sea level", "rainfall", "river", "rivers", "desalination", "wetlands", "coral"],
+    "Materials": ["recycling", "recycled", "plastic", "plastics", "waste", "steel", "cement", "concrete", "mining", "lithium", "minerals", "circular", "packaging", "landfill"],
+    "Buildings": ["building", "buildings", "home", "homes", "housing", "heating", "cooling", "air conditioning", "insulation", "construction", "efficiency", "appliance", "appliances"],
+    "Policy": ["policy", "law", "bill", "congress", "senate", "regulation", "regulations", "epa", "tariff", "tariffs", "tax credit", "tax credits", "cop30", "cop31", "treaty", "court", "lawsuit", "election", "government", "administration", "subsidy", "subsidies"]
+  }
+}

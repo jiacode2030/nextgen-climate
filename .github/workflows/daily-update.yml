@@ -1,0 +1,48 @@
+name: Daily update (news + submissions + Instagram)
+
+on:
+  schedule:
+    - cron: "23 13 * * *"   # every day, about 6 AM California time
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update news
+        run: python scripts/update_news.py
+
+      - name: Update submissions, stats and featured innovator
+        env:
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+        run: python scripts/update_submissions.py
+
+      - name: Update Instagram posts
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python scripts/update_instagram.py
+
+      - name: Save changes
+        run: |
+          git config user.name "nextgen-climate-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ assets/
+          if git diff --cached --quiet; then
+            echo "Nothing changed today."
+          else
+            git commit -m "Daily update: news, submissions, Instagram"
+            git push
+          fi

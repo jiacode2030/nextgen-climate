@@ -1,0 +1,37 @@
+name: Keep Instagram connected
+
+# Instagram tokens expire after 60 days. This renews the token every week
+# and saves the new one back into the IG_ACCESS_TOKEN secret.
+on:
+  schedule:
+    - cron: "41 15 * * 0"   # Sundays
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Renew token
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          NEW_TOKEN_FILE: ${{ runner.temp }}/ig_token
+        run: python scripts/update_instagram.py --refresh
+
+      - name: Save new token as the secret
+        env:
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+          NEW_TOKEN_FILE: ${{ runner.temp }}/ig_token
+        run: |
+          if [ ! -s "$NEW_TOKEN_FILE" ]; then echo "No new token (Instagram not set up yet)."; exit 0; fi
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::SECRETS_PAT is missing, so the renewed token could not be saved. See README, Instagram step 5."
+            exit 0
+          fi
+          gh secret set IG_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" < "$NEW_TOKEN_FILE"
+          echo "Saved the renewed token."

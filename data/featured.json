@@ -1,0 +1,16 @@
+{
+  "week_of": "2026-10-19",
+  "mode": "example",
+  "item": {
+    "id": "d4a0b7e3",
+    "first_name": "Kofi",
+    "school": "Achimota School",
+    "country": "Ghana",
+    "category": "Energy",
+    "title": "Biogas from cafeteria scraps",
+    "description": "A sealed drum digester that turns food waste from our cafeteria into gas for a small burner. We measured gas output for three weeks and shared the plans with two other schools.",
+    "photo": "",
+    "date": "2026-10-14T13:23:00Z",
+    "example": true
+  }
+}

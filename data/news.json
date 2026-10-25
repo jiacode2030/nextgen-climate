@@ -1,0 +1,70 @@
+{
+  "updated": null,
+  "failed_feeds": [],
+  "items": [
+    {
+      "title": "Sample: Energy stories, like new solar and battery projects, will appear here",
+      "link": "",
+      "source": "Sample feed",
+      "date": "2026-10-24T11:23:00Z",
+      "tag": "Energy",
+      "sample": true
+    },
+    {
+      "title": "Sample: Transport stories, like EVs, transit, and charging, will appear here",
+      "link": "",
+      "source": "Sample feed",
+      "date": "2026-10-24T08:23:00Z",
+      "tag": "Transport",
+      "sample": true
+    },
+    {
+      "title": "Sample: Carbon removal stories will appear here",
+      "link": "",
+      "source": "Sample feed",
+      "date": "2026-10-24T05:23:00Z",
+      "tag": "Carbon Removal",
+      "sample": true
+    },
+    {
+      "title": "Sample: Food and farming stories will appear here",
+      "link": "",
+      "source": "Sample feed",
+      "date": "2026-10-24T02:23:00Z",
+      "tag": "Food & Ag",
+      "sample": true
+    },
+    {
+      "title": "Sample: Water, ocean, and drought stories will appear here",
+      "link": "",
+      "source": "Sample feed",
+      "date": "2026-10-23T23:23:00Z",
+      "tag": "Water",
+      "sample": true
+    },
+    {
+      "title": "Sample: Recycling and materials stories will appear here",
+      "link": "",
+      "source": "Sample feed",
+      "date": "2026-10-23T20:23:00Z",
+      "tag": "Materials",
+      "sample": true
+    },
+    {
+      "title": "Sample: Buildings and heat pump stories will appear here",
+      "link": "",
+      "source": "Sample feed",
+      "date": "2026-10-23T17:23:00Z",
+      "tag": "Buildings",
+      "sample": true
+    },
+    {
+      "title": "Sample: Climate policy stories will appear here",
+      "link": "",
+      "source": "Sample feed",
+      "date": "2026-10-23T14:23:00Z",
+      "tag": "Policy",
+      "sample": true
+    }
+  ]
+}

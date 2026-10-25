@@ -1,0 +1,38 @@
+name: Weekly newsletter draft
+
+on:
+  schedule:
+    - cron: "7 14 * * 1"    # Mondays, about 7 AM California time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-data
+  cancel-in-progress: false
+
+jobs:
+  newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Write this week's draft
+        run: python scripts/make_newsletter.py
+
+      - name: Save draft
+        run: |
+          git config user.name "nextgen-climate-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newsletter/
+          if git diff --cached --quiet; then
+            echo "No new draft."
+          else
+            git commit -m "Newsletter draft for $(date -u +%Y-%m-%d)"
+            git push
+          fi

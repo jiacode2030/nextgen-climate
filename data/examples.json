@@ -1,0 +1,113 @@
+{
+  "_note": "Shown on the site whenever the Google Sheet has no approved entries. Every entry is marked as an example.",
+  "items": [
+    {
+      "id": "a1f3c201",
+      "first_name": "Maya",
+      "school": "Lincoln High School",
+      "country": "United States",
+      "category": "Energy",
+      "title": "Solar-powered phone charging bench",
+      "description": "A bench for our school courtyard with a 50W panel, a charge controller, and USB ports. It logs how much energy it collects each day so classmates can see the numbers on a small screen.",
+      "photo": "",
+      "date": "2026-10-23T13:23:00Z",
+      "example": true
+    },
+    {
+      "id": "b27e9d10",
+      "first_name": "Arjun",
+      "school": "Delhi Public School",
+      "country": "India",
+      "category": "Water",
+      "title": "Low-cost soil moisture alert",
+      "description": "An Arduino sensor in our community garden texts a volunteer when the soil is dry, so plants only get watered when they need it. We cut water use for one bed by about a third over a month.",
+      "photo": "",
+      "date": "2026-10-20T13:23:00Z",
+      "example": true
+    },
+    {
+      "id": "c3d81a42",
+      "first_name": "Lucía",
+      "school": "Colegio San Martín",
+      "country": "Mexico",
+      "category": "Materials",
+      "title": "Bottle-cap bricks",
+      "description": "We melted collected plastic caps into interlocking bricks and tested how much weight they hold. Twenty bricks became a planter wall for our school entrance.",
+      "photo": "",
+      "date": "2026-10-17T13:23:00Z",
+      "example": true
+    },
+    {
+      "id": "d4a0b7e3",
+      "first_name": "Kofi",
+      "school": "Achimota School",
+      "country": "Ghana",
+      "category": "Energy",
+      "title": "Biogas from cafeteria scraps",
+      "description": "A sealed drum digester that turns food waste from our cafeteria into gas for a small burner. We measured gas output for three weeks and shared the plans with two other schools.",
+      "photo": "",
+      "date": "2026-10-14T13:23:00Z",
+      "example": true
+    },
+    {
+      "id": "e5c6f914",
+      "first_name": "Hana",
+      "school": "Seoul Global High School",
+      "country": "South Korea",
+      "category": "Data & AI",
+      "title": "Classroom energy dashboard",
+      "description": "A Raspberry Pi reads smart-plug data from our classroom and shows which devices waste power when no one is in the room. Our class turned off idle monitors and cut usage on weekends.",
+      "photo": "",
+      "date": "2026-10-11T13:23:00Z",
+      "example": true
+    },
+    {
+      "id": "f60e2c75",
+      "first_name": "Leo",
+      "school": "Gymnasium am Markt",
+      "country": "Germany",
+      "category": "Transport",
+      "title": "Bike route heat map",
+      "description": "An app idea that maps the safest, shadiest bike routes to school using city tree data, so more students ride instead of being driven. We drew the first map by hand for our neighborhood.",
+      "photo": "",
+      "date": "2026-10-08T13:23:00Z",
+      "example": true
+    },
+    {
+      "id": "07b9d3a6",
+      "first_name": "Amara",
+      "school": "Lincoln High School",
+      "country": "United States",
+      "category": "Food & Ag",
+      "title": "Hydroponic window farm",
+      "description": "Stacked bottles with a small pump grow lettuce on a sunny classroom window. The cafeteria used our first harvest, and we are tracking how much packaging it saves.",
+      "photo": "",
+      "date": "2026-10-05T13:23:00Z",
+      "example": true
+    },
+    {
+      "id": "18c4e5b7",
+      "first_name": "Sofia",
+      "school": "Escola Estadual Paulista",
+      "country": "Brazil",
+      "category": "Buildings",
+      "title": "Cool-roof paint test",
+      "description": "We painted small model houses with different roof colors and measured inside temperatures with sensors. The white roof stayed about 6 °C cooler at midday.",
+      "photo": "",
+      "date": "2026-10-02T13:23:00Z",
+      "example": true
+    }
+  ],
+  "featured_item": {
+    "id": "d4a0b7e3",
+    "first_name": "Kofi",
+    "school": "Achimota School",
+    "country": "Ghana",
+    "category": "Energy",
+    "title": "Biogas from cafeteria scraps",
+    "description": "A sealed drum digester that turns food waste from our cafeteria into gas for a small burner. We measured gas output for three weeks and shared the plans with two other schools.",
+    "photo": "",
+    "date": "2026-10-14T13:23:00Z",
+    "example": true
+  }
+}
