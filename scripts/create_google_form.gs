@@ -35,7 +35,8 @@ function createNextGenForm() {
   form.setDescription(
     "Share a climate project, invention, or idea. Ideas count too, no building required!\n" +
     "Approved entries appear on our Solutions Wall and world map, and you can download a certificate.\n\n" +
-    "We only show your first name, school, and country. Your email stays private. Please don't include faces in photos.");
+    "We only show your first name, school, country, and your project (category, title, description, and photo), on our website and Instagram. " +
+    "Your email and age range stay private. Please don't include faces in photos.");
   form.setCollectEmail(false);
   form.setLimitOneResponsePerUser(false);  // true would force people to sign in with Google
   try { form.setRequireLogin(false); } catch (e) { /* only exists on school/work accounts */ }
