@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-25T03:31:47Z",
+  "updated": "2026-10-25T13:49:23Z",
   "failed_feeds": [],
   "items": [
+    {
+      "title": "Higher temperatures fuel gun violence. Now we know how much is from climate change.",
+      "link": "https://grist.org/extreme-heat/higher-temperatures-fuel-gun-violence-now-we-know-how-much-is-from-climate-change/",
+      "source": "Grist",
+      "date": "2026-10-25T13:00:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Amid Iowa’s Water Crisis, Factory Farms Get a Pass on Environmental Permitting",
+      "link": "https://insideclimatenews.org/news/25102026/iowa-factory-farms-manure-water-pollution/",
+      "source": "Inside Climate News",
+      "date": "2026-10-25T09:00:00Z",
+      "tag": "Food & Ag"
+    },
+    {
+      "title": "Invest in solar and earn $3,000 a day?",
+      "link": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
+      "source": "CleanTechnica",
+      "date": "2026-10-25T08:20:44Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Police pull over two men riding an electric couch down the street",
+      "link": "https://electrek.co/2026/10/24/police-pull-over-two-men-riding-an-electric-couch-down-the-street/",
+      "source": "Electrek",
+      "date": "2026-10-25T05:47:56Z",
+      "tag": "Other"
+    },
     {
       "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
       "link": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/",
@@ -393,34 +421,6 @@
       "source": "Grist",
       "date": "2026-10-22T23:01:00Z",
       "tag": "Other"
-    },
-    {
-      "title": "Net Power Surrendered Its Clean Dreams to Data Center Demand",
-      "link": "https://heatmap.news/energy/net-power-data-center-boom",
-      "source": "Heatmap",
-      "date": "2026-10-22T18:21:31Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Subtropical Storm Josephine forms in the Atlantic",
-      "link": "https://yaleclimateconnections.org/2026/10/subtropical-storm-josephine-forms-in-the-atlantic/",
-      "source": "Yale Climate Connections",
-      "date": "2026-10-22T16:56:20Z",
-      "tag": "Water"
-    },
-    {
-      "title": "What kind of virtual power plant would you choose?",
-      "link": "https://www.canarymedia.com/articles/virtual-power-plants/what-virtual-power-plant-would-you-choose",
-      "source": "Canary Media",
-      "date": "2026-10-22T16:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-      "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-      "source": "TechCrunch Climate",
-      "date": "2026-10-22T14:59:28Z",
-      "tag": "Energy"
     }
   ]
 }
