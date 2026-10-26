@@ -1,7 +1,161 @@
 {
-  "updated": "2026-10-25T13:49:23Z",
+  "updated": "2026-10-26T15:16:07Z",
   "failed_feeds": [],
   "items": [
+    {
+      "title": "BYD opens pre-orders for its first luxury electric SUV with over 1,000 km CLTC range",
+      "link": "https://electrek.co/2026/10/26/byd-opens-orders-first-luxury-suv-1000-km-cltc-range/",
+      "source": "Electrek",
+      "date": "2026-10-26T14:36:42Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Volkswagen gets L3 autonomous driving test permit in China, eyes 2027",
+      "link": "https://electrek.co/2026/10/26/volkswagen-l3-autonomous-driving-test-permit-china/",
+      "source": "Electrek",
+      "date": "2026-10-26T13:59:31Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Range Energy shows how its eTrailer saves almost as much as a Tesla Semi",
+      "link": "https://electrek.co/2026/10/26/range-energy-shows-how-its-etrailer-saves-almost-as-much-as-a-tesla-semi/",
+      "source": "Electrek",
+      "date": "2026-10-26T12:00:00Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "All aboard! Massachusetts is getting 10 new electric transit trains",
+      "link": "https://electrek.co/2026/10/26/all-aboard-massachusetts-is-getting-10-new-electric-transit-trains/",
+      "source": "Electrek",
+      "date": "2026-10-26T11:42:24Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "La nueva ley de climatización de Washington protege a los trabajadores agrícolas. ¿Saben que existe?",
+      "link": "https://yaleclimateconnections.org/2026/10/la-nueva-ley-de-climatizacion-de-washington-protege-a-los-trabajadores-agricolas-saben-que-existe/",
+      "source": "Yale Climate Connections",
+      "date": "2026-10-26T11:00:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Online tool tracks climate-related bills in 10 states",
+      "link": "https://yaleclimateconnections.org/2026/10/online-tool-tracks-climate-related-bills-in-10-states/",
+      "source": "Yale Climate Connections",
+      "date": "2026-10-26T10:59:00Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Battleground Ballots",
+      "link": "https://insideclimatenews.org/news/26102026/inside-climate-podcast-midterm-elections/",
+      "source": "Inside Climate News",
+      "date": "2026-10-26T09:30:00Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Ahead of Midterms, Republicans Court Iowa Farmers With Fuel Plans",
+      "link": "https://insideclimatenews.org/news/26102026/ahead-of-midterms-republicans-court-iowa-farmers-with-fuel-plans/",
+      "source": "Inside Climate News",
+      "date": "2026-10-26T09:05:00Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Production Agriculture Is Driving Grasslands Loss Across North America",
+      "link": "https://insideclimatenews.org/news/26102026/production-agriculture-is-driving-grasslands-loss-across-north-america/",
+      "source": "Inside Climate News",
+      "date": "2026-10-26T08:59:00Z",
+      "tag": "Food & Ag"
+    },
+    {
+      "title": "The Michigan climate candidate courting opponents of Big Solar",
+      "link": "https://grist.org/elections/will-lawrence-congress-sunrise-michigan-solar-data-centers/",
+      "source": "Grist",
+      "date": "2026-10-26T08:45:00Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Thwaites is a runaway climate disaster. New studies show how.",
+      "link": "https://grist.org/science/thwaites-runaway-climate-disaster-new-studies-show/",
+      "source": "Grist",
+      "date": "2026-10-26T08:30:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Climate change rarely goes on trial. This one could be a landmark.",
+      "link": "https://grist.org/justice/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/",
+      "source": "Grist",
+      "date": "2026-10-26T08:15:00Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Amflow launches two powerful new electric bikes, including its first SUV-style e-bike",
+      "link": "https://electrek.co/2026/10/26/amflow-launches-two-powerful-new-electric-bikes-including-its-first-suv-style-e-bike/",
+      "source": "Electrek",
+      "date": "2026-10-26T08:01:59Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "California has a plan for El Niño’s torrential rain: Save it for later",
+      "link": "https://grist.org/solutions/california-has-a-plan-for-el-ninos-torrential-rain-save-it-for-later/",
+      "source": "Grist",
+      "date": "2026-10-26T08:00:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "This group-buy campaign makes it easier to switch to induction cooking",
+      "link": "https://www.canarymedia.com/articles/electrification/group-buy-induction-cooking",
+      "source": "Canary Media",
+      "date": "2026-10-26T07:30:00Z",
+      "tag": "Buildings"
+    },
+    {
+      "title": "Massachusetts sets big battery goals — and the policies to back them up",
+      "link": "https://www.canarymedia.com/articles/batteries/massachusetts-sets-big-battery-goals",
+      "source": "Canary Media",
+      "date": "2026-10-26T07:30:00Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored",
+      "link": "https://cleantechnica.com/2026/10/25/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-factory-in-us-rumored/",
+      "source": "CleanTechnica",
+      "date": "2026-10-25T22:24:58Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+      "link": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/",
+      "source": "Electrek",
+      "date": "2026-10-25T18:34:53Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "New Li Auto i6 Goes 811 km (504 Miles)",
+      "link": "https://cleantechnica.com/2026/10/25/new-li-auto-i6-goes-811-km-504-miles/",
+      "source": "CleanTechnica",
+      "date": "2026-10-25T17:57:54Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Battery electric, solar-powered reefer units reach their first customers",
+      "link": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/",
+      "source": "Electrek",
+      "date": "2026-10-25T17:28:39Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together",
+      "link": "https://cleantechnica.com/2026/10/25/trump-doe-budget-cuts-energy-research/",
+      "source": "CleanTechnica",
+      "date": "2026-10-25T17:17:07Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One",
+      "link": "https://cleantechnica.com/2026/10/25/elon-musk-the-movie-blackout-billionaires/",
+      "source": "CleanTechnica",
+      "date": "2026-10-25T17:07:52Z",
+      "tag": "Transport"
+    },
     {
       "title": "Higher temperatures fuel gun violence. Now we know how much is from climate change.",
       "link": "https://grist.org/extreme-heat/higher-temperatures-fuel-gun-violence-now-we-know-how-much-is-from-climate-change/",
@@ -17,11 +171,18 @@
       "tag": "Food & Ag"
     },
     {
-      "title": "Invest in solar and earn $3,000 a day?",
+      "title": "Invest in Solar and Earn $3,000 a Day?",
       "link": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
       "source": "CleanTechnica",
       "date": "2026-10-25T08:20:44Z",
       "tag": "Energy"
+    },
+    {
+      "title": "E-quipment highlight: the highest-rated mowers on Amazon are ELECTRIC (2026)",
+      "link": "https://electrek.co/2026/10/25/e-quipment-highlight-the-highest-rated-mowers-on-amazon-are-electric-2026/",
+      "source": "Electrek",
+      "date": "2026-10-25T08:01:00Z",
+      "tag": "Other"
     },
     {
       "title": "Police pull over two men riding an electric couch down the street",
@@ -260,167 +421,6 @@
       "source": "CleanTechnica",
       "date": "2026-10-23T17:28:29Z",
       "tag": "Energy"
-    },
-    {
-      "title": "A Landmark Youth Climate Trial Against the Canadian Government Is About to Begin",
-      "link": "https://insideclimatenews.org/news/23102026/a-landmark-youth-climate-trial-against-the-canadian-government-is-about-to-begin/",
-      "source": "Inside Climate News",
-      "date": "2026-10-23T17:08:38Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
-      "link": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
-      "source": "Electrek",
-      "date": "2026-10-23T16:56:23Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "PFAS Contamination in Drinking Water May Be Underestimated, New Study Suggests",
-      "link": "https://insideclimatenews.org/news/23102026/pfas-contamination-in-drinking-water-may-be-underestimated-new-study-suggests/",
-      "source": "Inside Climate News",
-      "date": "2026-10-23T16:37:02Z",
-      "tag": "Water"
-    },
-    {
-      "title": "The permitting deal collides with Trump’s war on offshore wind",
-      "link": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
-      "source": "Canary Media",
-      "date": "2026-10-23T16:37:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Florida Farmers Are Making The Move To Regenerative Agriculture",
-      "link": "https://cleantechnica.com/2026/10/23/florida-farmers-are-making-the-move-to-regenerative-agriculture/",
-      "source": "CleanTechnica",
-      "date": "2026-10-23T16:34:42Z",
-      "tag": "Food & Ag"
-    },
-    {
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "source": "TechCrunch Climate",
-      "date": "2026-10-23T16:20:28Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
-      "link": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
-      "source": "Carbon Brief",
-      "date": "2026-10-23T15:55:26Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Volvo is launching a ‘lower-priced’ EV in 2027 based on its SPA3 platform",
-      "link": "https://electrek.co/2026/10/23/volvo-launching-lower-priced-ev-2027/",
-      "source": "Electrek",
-      "date": "2026-10-23T15:52:09Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Volvo says the EX60 will be a best-seller with over 50,000 orders in Europe already",
-      "link": "https://electrek.co/2026/10/23/volvo-ex60-best-seller-over-50000-orders/",
-      "source": "Electrek",
-      "date": "2026-10-23T14:53:25Z",
-      "tag": "Other"
-    },
-    {
-      "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
-      "link": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
-      "source": "Electrek",
-      "date": "2026-10-23T14:35:37Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
-      "link": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/",
-      "source": "Electrek",
-      "date": "2026-10-23T14:25:54Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Distorted — October 28, 2026",
-      "link": "https://grist.org/grist-events/distorted-october-28-2026/",
-      "source": "Grist",
-      "date": "2026-10-23T13:49:05Z",
-      "tag": "Other"
-    },
-    {
-      "title": "Yozma IN 11 review: The OG mini e-moto gets updates galore",
-      "link": "https://electrek.co/2026/10/23/yozma-in-11-review-the-og-mini-e-moto-gets-updates-galore/",
-      "source": "Electrek",
-      "date": "2026-10-23T12:39:08Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Why Trump Whiffed on New Wind Turbine Tariffs",
-      "link": "https://heatmap.news/am/trump-wind-tariffs",
-      "source": "Heatmap",
-      "date": "2026-10-23T12:19:12Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Overhead wired charging comes to Austin electric bus fleet",
-      "link": "https://electrek.co/2026/10/23/overhead-wired-charging-comes-to-austin-electric-bus-fleet/",
-      "source": "Electrek",
-      "date": "2026-10-23T11:05:00Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "‘Voting is medicine’: These health professionals want you to vote in the midterms",
-      "link": "https://yaleclimateconnections.org/2026/10/voting-is-medicine-these-health-professionals-want-you-to-vote-in-the-midterms/",
-      "source": "Yale Climate Connections",
-      "date": "2026-10-23T11:00:00Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Millions of older adults face extreme weather alone",
-      "link": "https://yaleclimateconnections.org/2026/10/millions-of-older-adults-face-extreme-weather-alone/",
-      "source": "Yale Climate Connections",
-      "date": "2026-10-23T10:59:00Z",
-      "tag": "Buildings"
-    },
-    {
-      "title": "Is There Room for Lucid?",
-      "link": "https://heatmap.news/electric-vehicles/is-there-room-for-lucid",
-      "source": "Heatmap",
-      "date": "2026-10-23T10:00:06Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Researchers Find Widespread PFAS Contamination in Florida Waterways",
-      "link": "https://insideclimatenews.org/news/23102026/researchers-find-widespread-pfas-contamination-in-florida-waterways/",
-      "source": "Inside Climate News",
-      "date": "2026-10-23T09:00:00Z",
-      "tag": "Water"
-    },
-    {
-      "title": "As US grid batteries surge, risk of fires plummets",
-      "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-      "source": "Canary Media",
-      "date": "2026-10-23T07:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Tesla Q4 numbers, more product delays, and some REAL EV charging innovation",
-      "link": "https://electrek.co/2026/10/22/tesla-q4-numbers-more-product-delays-and-some-real-ev-charging-innovation/",
-      "source": "Electrek",
-      "date": "2026-10-23T00:11:04Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "The Data Center Boom Is Faltering",
-      "link": "https://heatmap.news/daily/data-center-wall-street",
-      "source": "Heatmap",
-      "date": "2026-10-22T23:28:45Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Europe’s hottest summer ever was also its deadliest — by far",
-      "link": "https://grist.org/extreme-heat/europes-hottest-summer-ever-was-also-its-deadliest-by-far/",
-      "source": "Grist",
-      "date": "2026-10-22T23:01:00Z",
-      "tag": "Other"
     }
   ]
 }
