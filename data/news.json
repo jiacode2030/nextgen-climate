@@ -1,9 +1,84 @@
 {
-  "updated": "2026-10-31T13:58:54Z",
-  "failed_feeds": [
-    "MIT Technology Review"
-  ],
+  "updated": "2026-11-01T14:00:50Z",
+  "failed_feeds": [],
   "items": [
+    {
+      "title": "How the biggest renewable energy project in US history finally got built",
+      "link": "https://grist.org/solutions/how-the-biggest-renewable-energy-project-in-us-history-finally-got-built/",
+      "source": "Grist",
+      "date": "2026-11-01T14:00:00Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "source": "TechCrunch Climate",
+      "date": "2026-11-01T14:00:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "I imported a $2,000 electric truck from China. Five years later, here’s the truth",
+      "link": "https://electrek.co/2026/11/01/i-imported-a-2000-electric-truck-from-china-five-years-later-heres-the-truth/",
+      "source": "Electrek",
+      "date": "2026-11-01T13:29:00Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "The Amazonian Community That Beat Big Oil Is Sharing Its Secrets",
+      "link": "https://insideclimatenews.org/news/01112026/how-sarayaku-people-beat-big-oil/",
+      "source": "Inside Climate News",
+      "date": "2026-11-01T10:00:00Z",
+      "tag": "Water"
+    },
+    {
+      "title": "Rural Charms Drew Residents to Taylor, Texas. Then Came the Data Centers.",
+      "link": "https://insideclimatenews.org/news/01112026/taylor-texas-data-center-development/",
+      "source": "Inside Climate News",
+      "date": "2026-11-01T09:55:00Z",
+      "tag": "Food & Ag"
+    },
+    {
+      "title": "Will Josh Shapiro’s Data Center Past Haunt his Political Future?",
+      "link": "https://insideclimatenews.org/news/01112026/gov-josh-shapiro-data-center-history/",
+      "source": "Inside Climate News",
+      "date": "2026-11-01T09:50:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Honda has dominated motorcycles for decades. Electric bikes are changing that",
+      "link": "https://electrek.co/2026/11/01/honda-has-dominated-motorcycles-for-decades-electric-bikes-are-changing-that/",
+      "source": "Electrek",
+      "date": "2026-11-01T08:17:21Z",
+      "tag": "Buildings"
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch Climate",
+      "date": "2026-10-31T21:36:07Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Record Demand Catches (Some) OEMs with Their Pants Down — Europe September 2026",
+      "link": "https://cleantechnica.com/2026/10/31/record-demand-catches-some-oems-with-their-pants-down-europe-september-2026/",
+      "source": "CleanTechnica",
+      "date": "2026-10-31T18:43:17Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Elon Musk’s Attack Ads Are Backfiring As Midterms Near",
+      "link": "https://cleantechnica.com/2026/10/31/elon-musks-attack-ads-are-backfiring-as-midterms-near/",
+      "source": "CleanTechnica",
+      "date": "2026-10-31T17:54:23Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Antwerp’s Electric Cranes Can Handle More Than Today’s Cargo",
+      "link": "https://cleantechnica.com/2026/10/31/antwerp-electric-mobile-harbour-cranes/",
+      "source": "CleanTechnica",
+      "date": "2026-10-31T17:02:50Z",
+      "tag": "Transport"
+    },
     {
       "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
       "link": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
@@ -346,83 +421,6 @@
       "source": "CleanTechnica",
       "date": "2026-10-30T03:22:18Z",
       "tag": "Buildings"
-    },
-    {
-      "title": "The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion",
-      "link": "https://cleantechnica.com/2026/10/29/the-zombie-engine-how-brussels-bureaucrats-are-breathing-false-life-into-combustion/",
-      "source": "CleanTechnica",
-      "date": "2026-10-30T01:32:43Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Misconceptions about Mobility Growth",
-      "link": "https://cleantechnica.com/2026/10/29/misconceptions-about-mobility-growth/",
-      "source": "CleanTechnica",
-      "date": "2026-10-30T01:22:18Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "It’s Not Enough To Electrify More. We Must Electrify Better.",
-      "link": "https://cleantechnica.com/2026/10/29/its-not-enough-to-electrify-more-we-must-electrify-better/",
-      "source": "CleanTechnica",
-      "date": "2026-10-30T01:03:38Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Volkswagen Q3 Loss Largest Since Dieselgate",
-      "link": "https://cleantechnica.com/2026/10/29/volkswagen-q3-loss-largest-since-dieselgate/",
-      "source": "CleanTechnica",
-      "date": "2026-10-29T23:44:37Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "As Permitting Bill Debate Approaches, Senators Have Fresh Doubts and an Ultimatum",
-      "link": "https://insideclimatenews.org/news/29102026/senate-debate-on-bipartisan-permitting-bill-approaches/",
-      "source": "Inside Climate News",
-      "date": "2026-10-29T22:34:38Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates",
-      "link": "https://insideclimatenews.org/news/29102026/alabama-lieutenant-governor-debate-utility-rates-data-centers/",
-      "source": "Inside Climate News",
-      "date": "2026-10-29T22:26:32Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Ford Wants Utilities To Help Make Bidirectional EV Charging Cheaper For Everyone",
-      "link": "https://cleantechnica.com/2026/10/29/ford-fathom-bidirectional-ev-charging-utilites/",
-      "source": "CleanTechnica",
-      "date": "2026-10-29T21:32:02Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "BYD spotted testing a new minivan [Video]",
-      "link": "https://electrek.co/2026/10/29/byd-spotted-testing-new-minivan-video/",
-      "source": "Electrek",
-      "date": "2026-10-29T21:27:11Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Exclusive: Peter Thiel-Backed Nuclear Fuel Startup Hits a Key Regulatory Milestone",
-      "link": "https://heatmap.news/energy/general-matter-nrc-approval",
-      "source": "Heatmap",
-      "date": "2026-10-29T20:12:13Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Rivian’s electric van gets 30% more range and AWD, now delivering",
-      "link": "https://electrek.co/2026/10/29/rivian-electric-van-awd-30-percent-more-range/",
-      "source": "Electrek",
-      "date": "2026-10-29T20:04:01Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
-      "link": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/",
-      "source": "Electrek",
-      "date": "2026-10-29T20:02:40Z",
-      "tag": "Transport"
     }
   ]
 }
