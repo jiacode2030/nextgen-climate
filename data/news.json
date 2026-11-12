@@ -1,7 +1,273 @@
 {
-  "updated": "2026-11-11T14:28:03Z",
+  "updated": "2026-11-12T14:27:58Z",
   "failed_feeds": [],
   "items": [
+    {
+      "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+      "link": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/",
+      "source": "Electrek",
+      "date": "2026-11-12T12:53:50Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Honda’s $2,000 electric moped is a winner. So why can’t Americans buy it?",
+      "link": "https://electrek.co/2026/11/12/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-it/",
+      "source": "Electrek",
+      "date": "2026-11-12T12:28:02Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "The Nature Conservancy wants to bring back forests",
+      "link": "https://yaleclimateconnections.org/2026/11/the-nature-conservancy-wants-to-bring-back-forests/",
+      "source": "Yale Climate Connections",
+      "date": "2026-11-12T11:59:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "In Pennsylvania, Democratic Lawmakers Want to ‘Act Quickly’ on Clean Energy and Affordability",
+      "link": "https://insideclimatenews.org/news/12112026/pennsylvania-democrat-trifecta-clean-energy-affordability/",
+      "source": "Inside Climate News",
+      "date": "2026-11-12T10:00:00Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "This surprise cost could derail your heat pump or EV charger installation. Here’s how to avoid it.",
+      "link": "https://grist.org/solutions/this-surprise-cost-could-derail-your-heat-pump-or-ev-charger-installation-heres-how-to-avoid-it/",
+      "source": "Grist",
+      "date": "2026-11-12T09:45:00Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Climate progressives won the midterms without saying ‘climate’",
+      "link": "https://grist.org/elections/climate-progressives-won-the-midterms-without-saying-climate/",
+      "source": "Grist",
+      "date": "2026-11-12T09:30:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Climate change is coming for the cactus. Yes, the cactus.",
+      "link": "https://grist.org/science/climate-change-is-coming-for-the-cactus-yes-the-cactus/",
+      "source": "Grist",
+      "date": "2026-11-12T09:15:00Z",
+      "tag": "Water"
+    },
+    {
+      "title": "The GOP lost its iron grip on Ohio. What’s the outlook for clean energy?",
+      "link": "https://www.canarymedia.com/articles/politics/gop-lost-ohio-outlook-clean-energy",
+      "source": "Canary Media",
+      "date": "2026-11-12T08:30:00Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Bay Area finalizes rules to boost heat-pump water heater adoption",
+      "link": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
+      "source": "Canary Media",
+      "date": "2026-11-12T08:30:00Z",
+      "tag": "Water"
+    },
+    {
+      "title": "White House Watch: Tracking Attacks on Our Environment & Health",
+      "link": "https://cleantechnica.com/2026/11/12/white-house-watch-tracking-attacks-on-our-environment-health/",
+      "source": "CleanTechnica",
+      "date": "2026-11-12T07:59:37Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle",
+      "link": "https://cleantechnica.com/2026/11/11/the-high-rise-bottleneck-why-ev-charging-in-indian-apartments-is-an-engineering-puzzle/",
+      "source": "CleanTechnica",
+      "date": "2026-11-12T04:53:39Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "To Honor Veterans, How About We Stop The Oil Wars?",
+      "link": "https://cleantechnica.com/2026/11/11/to-honor-veterans-how-about-we-stop-the-oil-wars/",
+      "source": "CleanTechnica",
+      "date": "2026-11-12T04:50:38Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "The Trump Administration’s Pro-Cancer Agenda",
+      "link": "https://cleantechnica.com/2026/11/11/the-trump-administrations-pro-cancer-agenda/",
+      "source": "CleanTechnica",
+      "date": "2026-11-12T04:47:57Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Democrats Are at COP31 to Show That the US Has Not Abandoned the Fight Against Climate Change",
+      "link": "https://cleantechnica.com/2026/11/11/democrats-are-at-cop31-to-show-that-the-us-has-not-abandoned-the-fight-against-climate-change/",
+      "source": "CleanTechnica",
+      "date": "2026-11-12T04:43:47Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "300 Glaciers Have Disappeared from the American West Since the Mid‑20th Century — the Survivors Have a Few Things in Common",
+      "link": "https://cleantechnica.com/2026/11/11/300-glaciers-have-disappeared-from-the-american-west-since-the-mid-20th-century-the-survivors-have-a-few-things-in-common/",
+      "source": "CleanTechnica",
+      "date": "2026-11-12T04:40:18Z",
+      "tag": "Other"
+    },
+    {
+      "title": "It’s the Artificial Intelligence Muddle Now",
+      "link": "https://heatmap.news/daily/the-artificial-intelligence-muddle",
+      "source": "Heatmap",
+      "date": "2026-11-12T00:15:34Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+      "link": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+      "source": "Electrek",
+      "date": "2026-11-12T00:01:00Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Even Cacti Are Threatened by Heat and Drought From Global Warming",
+      "link": "https://insideclimatenews.org/news/11112026/cactus-heat-drought-global-warming/",
+      "source": "Inside Climate News",
+      "date": "2026-11-11T22:50:16Z",
+      "tag": "Water"
+    },
+    {
+      "title": "BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do",
+      "link": "https://electrek.co/2026/11/11/byd-shows-new-cloud-carriage-body-control-system-video/",
+      "source": "Electrek",
+      "date": "2026-11-11T22:13:48Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Running a Smart Home Energy System Takes a Lot of Software",
+      "link": "https://heatmap.news/climate-tech/lunar-ev-charging",
+      "source": "Heatmap",
+      "date": "2026-11-11T21:38:22Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Was Corruption The Biggest Issue In The US Election?",
+      "link": "https://cleantechnica.com/2026/11/11/was-corruption-the-biggest-issue-in-the-us-election/",
+      "source": "CleanTechnica",
+      "date": "2026-11-11T21:36:51Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Kia just made history at Germany’s most prestigious auto awards",
+      "link": "https://electrek.co/2026/11/11/kia-made-history-germanys-most-prestigious-auto-awards/",
+      "source": "Electrek",
+      "date": "2026-11-11T20:41:03Z",
+      "tag": "Other"
+    },
+    {
+      "title": "North Carolina Vows to Hold Chemours Accountable for Contamination ‘No Matter How Long It Takes’",
+      "link": "https://insideclimatenews.org/news/11112026/north-carolina-chemours-pfas-pollution-accountability/",
+      "source": "Inside Climate News",
+      "date": "2026-11-11T20:32:47Z",
+      "tag": "Water"
+    },
+    {
+      "title": "Leading small modular nuclear reactor will be late and over budget",
+      "link": "https://www.canarymedia.com/articles/nuclear/small-modular-nuclear-reactor-late-canada",
+      "source": "Canary Media",
+      "date": "2026-11-11T19:00:00Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Segway MUXI cargo e-bike $200 off in expanded Black Friday sale + Navimow robot deals, Anker eufy S340 4-cam kit $580, more",
+      "link": "https://electrek.co/2026/11/11/segway-muxi-cargo-e-bike-black-friday-navimow-robot-anker-eufy-s340-4-cam-kit/",
+      "source": "Electrek",
+      "date": "2026-11-11T19:00:00Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "FEMA’s disaster buyout program is working — but there’s a catch",
+      "link": "https://grist.org/solutions/femas-flood-buyout-program-is-working-but-theres-a-catch/",
+      "source": "Grist",
+      "date": "2026-11-11T19:00:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "BYD’s full-size luxury SUV has a wheel problem, and it’s fixing it for free",
+      "link": "https://electrek.co/2026/11/11/byds-flagship-suv-wheel-problem-fixing-for-free/",
+      "source": "Electrek",
+      "date": "2026-11-11T18:58:08Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
+      "link": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
+      "source": "Electrek",
+      "date": "2026-11-11T18:24:50Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US",
+      "link": "https://cleantechnica.com/2026/11/11/perovskite-solar-cells-us-caelux-heliene/",
+      "source": "CleanTechnica",
+      "date": "2026-11-11T18:08:20Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "As Texas Embraces Carbon Storage, a Black Community Questions the Risks",
+      "link": "https://insideclimatenews.org/news/11112026/as-texas-embraces-carbon-storage-a-black-community-questions-the-risks/",
+      "source": "Inside Climate News",
+      "date": "2026-11-11T18:03:58Z",
+      "tag": "Carbon Removal"
+    },
+    {
+      "title": "Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago",
+      "link": "https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/",
+      "source": "Electrek",
+      "date": "2026-11-11T18:03:12Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027",
+      "link": "https://cleantechnica.com/2026/11/11/renowned-awards-for-the-newcomer-id-polo-wins-golden-steering-wheel-the-autonis-design-award-and-is-voted-german-car-of-the-year-2027/",
+      "source": "CleanTechnica",
+      "date": "2026-11-11T17:40:35Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Hyundai is shaking up its 2027 electric vehicle lineup: Here’s what’s changing",
+      "link": "https://electrek.co/2026/11/11/hyundai-shaking-up-2027-ev-lineup-whats-changing/",
+      "source": "Electrek",
+      "date": "2026-11-11T17:23:27Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "What to know about this year’s UN climate talks",
+      "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-11T17:00:00Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Toyota and Subaru hit the ‘sweet spot’ with affordable electric SUVs",
+      "link": "https://electrek.co/2026/11/11/toyota-subaru-hit-sweet-spot-affordable-electric-suvs/",
+      "source": "Electrek",
+      "date": "2026-11-11T15:41:10Z",
+      "tag": "Other"
+    },
+    {
+      "title": "The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors.",
+      "link": "https://cleantechnica.com/2026/11/11/dutch-electric-inland-shipping-subsidy-freight-corridors/",
+      "source": "CleanTechnica",
+      "date": "2026-11-11T15:06:05Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Exclusive: Coreshell Raises $30 Million to Replace Chinese Graphite With American Silicon",
+      "link": "https://heatmap.news/climate-tech/coreshell-series-b",
+      "source": "Heatmap",
+      "date": "2026-11-11T15:00:04Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
+      "link": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
+      "source": "Electrek",
+      "date": "2026-11-11T14:34:00Z",
+      "tag": "Transport"
+    },
     {
       "title": "Genesis reveals GV90 prices start at $100K+ in Korea, but it will cost more for coach doors",
       "link": "https://electrek.co/2026/11/11/genesis-reveals-gv90-prices-start-at-100k-korea-cost-more-for-coach-doors/",
@@ -36,6 +302,13 @@
       "source": "Heatmap",
       "date": "2026-11-11T12:24:55Z",
       "tag": "Other"
+    },
+    {
+      "title": "12 free reports about climate change for COP31",
+      "link": "https://yaleclimateconnections.org/2026/11/12-free-reports-about-climate-change-for-cop31/",
+      "source": "Yale Climate Connections",
+      "date": "2026-11-11T11:59:00Z",
+      "tag": "Policy"
     },
     {
       "title": "The Army now has a clean, battery-electric train",
@@ -148,279 +421,6 @@
       "source": "CleanTechnica",
       "date": "2026-11-11T00:54:35Z",
       "tag": "Policy"
-    },
-    {
-      "title": "Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility",
-      "link": "https://cleantechnica.com/2026/11/10/introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autonomous-mobility/",
-      "source": "CleanTechnica",
-      "date": "2026-11-11T00:44:46Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Can the Blue Wave Turn the Tide Against Border Wall Construction in Texas?",
-      "link": "https://insideclimatenews.org/news/10112026/texas-elections-border-wall-construction/",
-      "source": "Inside Climate News",
-      "date": "2026-11-10T22:57:04Z",
-      "tag": "Buildings"
-    },
-    {
-      "title": "Kia launches two new PV5 electric van variants in the UK",
-      "link": "https://electrek.co/2026/11/10/kia-launches-two-new-pv5-electric-van-variants-uk/",
-      "source": "Electrek",
-      "date": "2026-11-10T22:29:08Z",
-      "tag": "Other"
-    },
-    {
-      "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
-      "link": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/",
-      "source": "Electrek",
-      "date": "2026-11-10T21:03:24Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Energy Prices Are Still Heating Up the Economy",
-      "link": "https://heatmap.news/economy/october-inflation",
-      "source": "Heatmap",
-      "date": "2026-11-10T20:49:57Z",
-      "tag": "Buildings"
-    },
-    {
-      "title": "Tesla Cybertruck had its best month in over a year. It’s still going away",
-      "link": "https://electrek.co/2026/11/10/tesla-cybertruck-had-its-best-month-in-over-a-year-its-still-going-away/",
-      "source": "Electrek",
-      "date": "2026-11-10T20:45:45Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "X-energy gets green light to build its first small modular nuclear reactors",
-      "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-      "source": "TechCrunch Climate",
-      "date": "2026-11-10T20:43:55Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
-      "link": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/",
-      "source": "Electrek",
-      "date": "2026-11-10T20:43:51Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Another novel nuclear project gets green light to start construction",
-      "link": "https://www.canarymedia.com/articles/nuclear/novel-nuclear-project-green-light-construction",
-      "source": "Canary Media",
-      "date": "2026-11-10T20:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Norway’s Electric Snowplow Worked. Sweden Added Hydrogen Anyway.",
-      "link": "https://cleantechnica.com/2026/11/10/norway-electric-snowplow-sweden-hydrogen-range-extender/",
-      "source": "CleanTechnica",
-      "date": "2026-11-10T20:27:29Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "House Moderates Say Now Is the Time for Permitting Reform",
-      "link": "https://heatmap.news/politics/house-baaja",
-      "source": "Heatmap",
-      "date": "2026-11-10T20:21:57Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "BYD and Geely approached FIA about a 12th F1 team, says Ben Sulayem",
-      "link": "https://electrek.co/2026/11/10/byd-geely-fia-talks-12th-f1-team/",
-      "source": "Electrek",
-      "date": "2026-11-10T19:33:44Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "The new BMW i3 just proved how efficient an EV can be after a nearly 3,700-mile road trip",
-      "link": "https://electrek.co/2026/11/10/bmw-i3-efficiency-record-3700-mile-trip/",
-      "source": "Electrek",
-      "date": "2026-11-10T18:40:17Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Garmin and Waze just teamed up on a clever new way to keep cyclists safer",
-      "link": "https://electrek.co/2026/11/10/garmin-and-waze-just-teamed-up-on-a-clever-new-way-to-keep-cyclists-safer/",
-      "source": "Electrek",
-      "date": "2026-11-10T18:34:11Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core",
-      "link": "https://electrek.co/2026/11/10/juiced-unveils-another-lower-cost-moto-styled-electric-bike-scrambler-core/",
-      "source": "Electrek",
-      "date": "2026-11-10T18:00:55Z",
-      "tag": "Other"
-    },
-    {
-      "title": "Analysis: Which countries have sent the most delegates to COP31?",
-      "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
-      "source": "Carbon Brief",
-      "date": "2026-11-10T17:21:37Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Senate Advances Permitting Overhaul But Roadblocks Loom",
-      "link": "https://insideclimatenews.org/news/10112026/senate-advances-permitting-bill/",
-      "source": "Inside Climate News",
-      "date": "2026-11-10T16:57:50Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "BYD offices raided as JLR legal battle heats up over alleged Defender lookalike",
-      "link": "https://electrek.co/2026/11/10/byd-offices-raided-jlr-legal-battle-heats-up-over-defender-lookalike/",
-      "source": "Electrek",
-      "date": "2026-11-10T16:46:54Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "The coolest ride in town is England’s first electric ice cream truck",
-      "link": "https://electrek.co/2026/11/10/the-coolest-ride-in-town-is-englands-first-electric-ice-cream-truck/",
-      "source": "Electrek",
-      "date": "2026-11-10T16:44:34Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Tesla’s China sales crash 66% to lowest level in over four years",
-      "link": "https://electrek.co/2026/11/10/tesla-china-sales-crash-october-2026-lowest-four-years/",
-      "source": "Electrek",
-      "date": "2026-11-10T16:04:43Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "COP31 Meets the Overshoot Era",
-      "link": "https://insideclimatenews.org/news/10112026/cop31-meets-overshoot-era/",
-      "source": "Inside Climate News",
-      "date": "2026-11-10T14:47:54Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Lucid says service wait times fell 20% after 40% jump in service staff",
-      "link": "https://electrek.co/2026/11/10/lucid-service-wait-times-drop-20-percent-staffing/",
-      "source": "Electrek",
-      "date": "2026-11-10T14:24:55Z",
-      "tag": "Other"
-    },
-    {
-      "title": "Polestar unveils Formula 2030 concept, previewing the next Polestar 2",
-      "link": "https://electrek.co/2026/11/10/polestar-formula-2030-concept-unveiled-next-polestar-2/",
-      "source": "Electrek",
-      "date": "2026-11-10T14:10:36Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Permitting Reform ‘Survived Its First Test’",
-      "link": "https://heatmap.news/am/baaja-cloture-nrc",
-      "source": "Heatmap",
-      "date": "2026-11-10T12:53:16Z",
-      "tag": "Other"
-    },
-    {
-      "title": "CAT puts century-old train tech to work in its biggest underground machine yet",
-      "link": "https://electrek.co/2026/11/10/cat-puts-century-old-train-tech-to-work-in-its-biggest-underground-machine-yet/",
-      "source": "Electrek",
-      "date": "2026-11-10T12:10:00Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "The suburbs are getting a makeover. That’s a climate win.",
-      "link": "https://yaleclimateconnections.org/2026/11/the-suburbs-are-getting-a-makeover-thats-a-climate-win/",
-      "source": "Yale Climate Connections",
-      "date": "2026-11-10T12:00:00Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Hope Village provides climate-resilient housing to vulnerable residents",
-      "link": "https://yaleclimateconnections.org/2026/11/hope-village-provides-climate-resilient-housing-to-vulnerable-residents/",
-      "source": "Yale Climate Connections",
-      "date": "2026-11-10T11:59:00Z",
-      "tag": "Buildings"
-    },
-    {
-      "title": "Oh, So That’s Who’s Buying All Those New Subaru Trailseeker EVs…",
-      "link": "https://cleantechnica.com/2026/11/10/subaru-ev-sales-trailseeker-pet-friendly-households/",
-      "source": "CleanTechnica",
-      "date": "2026-11-10T10:44:52Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers",
-      "link": "https://cleantechnica.com/2026/11/10/a-tribute-to-bunker-roy-the-man-who-turned-village-grandmothers-into-solar-engineers/",
-      "source": "CleanTechnica",
-      "date": "2026-11-10T10:42:33Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Why the World Is Still Running on Fossil Fuels After 30 Years of Climate Talks",
-      "link": "https://insideclimatenews.org/news/10112026/30-years-of-climate-talks-lack-of-progress/",
-      "source": "Inside Climate News",
-      "date": "2026-11-10T10:00:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "The Cybertruck era is over, but America’s electric truck experiment isn’t",
-      "link": "https://grist.org/culture/tesla-cybertruck-electric-truck-experiment/",
-      "source": "Grist",
-      "date": "2026-11-10T09:45:00Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Honda shows off its next electric motorcycle, and it’s wilder than you thought",
-      "link": "https://electrek.co/2026/11/10/honda-shows-off-its-next-electric-motorcycle-and-its-wilder-than-you-thought/",
-      "source": "Electrek",
-      "date": "2026-11-10T09:07:02Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "The US offshore wind manufacturing boom that wasn’t",
-      "link": "https://www.canarymedia.com/articles/offshore-wind/us-offshore-wind-manufacturing",
-      "source": "Canary Media",
-      "date": "2026-11-10T08:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Chicago program helps people transition from prison to solar jobs",
-      "link": "https://www.canarymedia.com/articles/clean-energy-jobs/chicago-program-transition-prison-solar-jobs",
-      "source": "Canary Media",
-      "date": "2026-11-10T08:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "2 years after Mexico relocated their climate-ravaged community, residents struggle to adapt",
-      "link": "https://grist.org/culture/2-years-after-mexico-relocated-their-climate-ravaged-community-residents-struggle-to-adapt/",
-      "source": "Grist",
-      "date": "2026-11-10T07:00:00Z",
-      "tag": "Buildings"
-    },
-    {
-      "title": "Australian Plugin Vehicle Market Steady in October — Update",
-      "link": "https://cleantechnica.com/2026/11/09/australian-plugin-vehicle-market-steady-in-october-update/",
-      "source": "CleanTechnica",
-      "date": "2026-11-10T04:57:37Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "More than 300 Solar & Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs",
-      "link": "https://cleantechnica.com/2026/11/09/more-than-300-solar-storage-companies-urge-congress-to-pass-bipartisan-permitting-reform-to-accelerate-clean-energy-deployment-lower-costs/",
-      "source": "CleanTechnica",
-      "date": "2026-11-10T04:53:37Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like",
-      "link": "https://cleantechnica.com/2026/11/09/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-electric-vehicle-durability-looks-like/",
-      "source": "CleanTechnica",
-      "date": "2026-11-10T04:50:49Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "New BYD Seal 07 Illustrates Chinese EV Evolution",
-      "link": "https://cleantechnica.com/2026/11/09/new-byd-seal-07-illustrates-chinese-ev-evolution/",
-      "source": "CleanTechnica",
-      "date": "2026-11-10T03:56:04Z",
-      "tag": "Transport"
     }
   ]
 }
