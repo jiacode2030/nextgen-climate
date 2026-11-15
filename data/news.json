@@ -1,7 +1,112 @@
 {
-  "updated": "2026-11-14T14:07:14Z",
+  "updated": "2026-11-15T14:08:51Z",
   "failed_feeds": [],
   "items": [
+    {
+      "title": "As Texas embraces carbon storage, a Black community questions the risks",
+      "link": "https://grist.org/accountability/as-texas-embraces-carbon-storage-a-black-community-questions-the-risks/",
+      "source": "Grist",
+      "date": "2026-11-15T14:00:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "How Wildfire Litigation Became Big Business in America",
+      "link": "https://insideclimatenews.org/news/15112026/wildfire-litigation-booming-business/",
+      "source": "Inside Climate News",
+      "date": "2026-11-15T10:00:00Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
+      "link": "https://cleantechnica.com/2026/11/14/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home-loads-into-flexible-grid-assets/",
+      "source": "CleanTechnica",
+      "date": "2026-11-15T04:39:35Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Rocket Fuel: The Last Frontier For Natural Gas",
+      "link": "https://cleantechnica.com/2026/11/14/natural-gas-methane-rocket-fuel-spacex-pipelines/",
+      "source": "CleanTechnica",
+      "date": "2026-11-15T03:40:32Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "313 kW Rooftop Solar System at Virginia Elementary Will Save $581,000 in Energy Costs",
+      "link": "https://cleantechnica.com/2026/11/14/313-kw-solar-power-system-rooftop-system-at-virginia-elementary-will-save-581000-in-energy-costs/",
+      "source": "CleanTechnica",
+      "date": "2026-11-15T02:22:47Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "What The US Midterm Elections Mean For Climate Progress",
+      "link": "https://cleantechnica.com/2026/11/14/what-the-us-midterm-elections-mean-for-climate-progress/",
+      "source": "CleanTechnica",
+      "date": "2026-11-15T00:52:25Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "$3.4 Billion — Anthropic Order for Gas Power Plants!",
+      "link": "https://cleantechnica.com/2026/11/14/3-4-billion-anthropic-order-for-gas-power-plants/",
+      "source": "CleanTechnica",
+      "date": "2026-11-15T00:33:38Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
+      "link": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/",
+      "source": "Electrek",
+      "date": "2026-11-14T21:26:03Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Fabric Molds Could Bring Material-Saving Concrete Beams Within Reach",
+      "link": "https://cleantechnica.com/2026/11/14/fabric-molds-could-bring-material-saving-concrete-beams-within-reach/",
+      "source": "CleanTechnica",
+      "date": "2026-11-14T21:06:51Z",
+      "tag": "Materials"
+    },
+    {
+      "title": "AI Businesses Still Bleeding Billions",
+      "link": "https://cleantechnica.com/2026/11/14/ai-businesses-still-bleeding-billions/",
+      "source": "CleanTechnica",
+      "date": "2026-11-14T19:08:46Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Study Pinpoints States with Steepest Warming Trends Since 1980",
+      "link": "https://cleantechnica.com/2026/11/14/study-pinpoints-states-with-steepest-warming-trends-since-1980/",
+      "source": "CleanTechnica",
+      "date": "2026-11-14T18:19:27Z",
+      "tag": "Buildings"
+    },
+    {
+      "title": "Zoox Launches Robotaxis in Atlanta",
+      "link": "https://cleantechnica.com/2026/11/14/zoox-launches-robotaxis-in-atlanta/",
+      "source": "CleanTechnica",
+      "date": "2026-11-14T17:44:08Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Check your ego at the door: Stellantis’ new electric dolly turns ANY car into a tow rig",
+      "link": "https://electrek.co/2026/11/14/check-your-ego-at-the-door-stellantis-new-electric-dolly-turns-any-car-into-a-tow-rig/",
+      "source": "Electrek",
+      "date": "2026-11-14T17:35:39Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Huawei set to challenge Tesla Powerwall with new, 20 kW home battery",
+      "link": "https://electrek.co/2026/11/14/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery/",
+      "source": "Electrek",
+      "date": "2026-11-14T16:25:02Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine.",
+      "link": "https://cleantechnica.com/2026/11/14/seabed-mining-lease-critical-minerals-business-case/",
+      "source": "CleanTechnica",
+      "date": "2026-11-14T16:13:50Z",
+      "tag": "Materials"
+    },
     {
       "title": "The scientists fighting to help Maui wildfire survivors heal",
       "link": "https://grist.org/wildfires/the-scientists-fighting-to-help-maui-wildfire-survivors-heal/",
@@ -50,6 +155,13 @@
       "source": "Inside Climate News",
       "date": "2026-11-14T09:40:00Z",
       "tag": "Other"
+    },
+    {
+      "title": "Zoox Expands Robotaxi Service in Las Vegas",
+      "link": "https://cleantechnica.com/2026/11/13/zoox-expands-robotaxi-service-in-las-vegas/",
+      "source": "CleanTechnica",
+      "date": "2026-11-14T04:58:11Z",
+      "tag": "Transport"
     },
     {
       "title": "Tesla Starts Selling Cybercab — $30,000*",
@@ -309,118 +421,6 @@
       "source": "Inside Climate News",
       "date": "2026-11-13T10:00:00Z",
       "tag": "Policy"
-    },
-    {
-      "title": "The affordability election delivered billions for public transit",
-      "link": "https://grist.org/transportation/the-affordability-election-delivered-billions-for-public-transit/",
-      "source": "Grist",
-      "date": "2026-11-13T09:45:00Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "The cozy radicalism of repair cafés",
-      "link": "https://grist.org/culture/cozy-radicalism-right-to-repair-cafes/",
-      "source": "Grist",
-      "date": "2026-11-13T09:30:00Z",
-      "tag": "Other"
-    },
-    {
-      "title": "Solar PAC got revenge on clean energy’s enemies in Congress",
-      "link": "https://www.canarymedia.com/articles/politics/solar-pac-revenge-in-congress",
-      "source": "Canary Media",
-      "date": "2026-11-13T08:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "The Iran war will cause global fossil fuel emissions to fall",
-      "link": "https://www.canarymedia.com/articles/emissions-reduction/turns-out-the-worlds-fossil-fuel-emissions-will-actually-drop-this-year",
-      "source": "Canary Media",
-      "date": "2026-11-13T08:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Data Centers, AI, & the Growing Demand for Energy: Impacts, Risks, & Solutions",
-      "link": "https://cleantechnica.com/2026/11/12/data-centers-ai-the-growing-demand-for-energy-impacts-risks-solutions/",
-      "source": "CleanTechnica",
-      "date": "2026-11-13T04:50:28Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Managing Offshore Wind in the Face of Uncertainty",
-      "link": "https://cleantechnica.com/2026/11/12/managing-offshore-wind-in-the-face-of-uncertainty/",
-      "source": "CleanTechnica",
-      "date": "2026-11-13T04:07:58Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It",
-      "link": "https://cleantechnica.com/2026/11/12/senate-republicans-begin-the-process-of-jamming-baaja-while-trump-threatens-to-ignore-it/",
-      "source": "CleanTechnica",
-      "date": "2026-11-13T03:30:22Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing",
-      "link": "https://cleantechnica.com/2026/11/12/hoosiers-call-on-epa-not-to-weaken-coal-ash-rules-at-public-hearing/",
-      "source": "CleanTechnica",
-      "date": "2026-11-13T03:20:50Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "What Happens in Vegas Should Inform the Rest of the Country",
-      "link": "https://cleantechnica.com/2026/11/12/what-happens-in-vegas-should-inform-the-rest-of-the-country/",
-      "source": "CleanTechnica",
-      "date": "2026-11-13T02:29:28Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Transcript: Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
-      "link": "https://heatmap.news/podcast/shift-key-159-evergreen-baaja-transcript",
-      "source": "Heatmap",
-      "date": "2026-11-13T01:08:15Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
-      "link": "https://heatmap.news/podcast/shift-key-159-evergreen-baaja",
-      "source": "Heatmap",
-      "date": "2026-11-12T23:52:04Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "sonnen’s new smart breakers help your home battery last longer",
-      "link": "https://electrek.co/2026/11/12/sonnens-new-smart-breakers-help-your-home-battery-last-longer/",
-      "source": "Electrek",
-      "date": "2026-11-12T23:22:43Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming.",
-      "link": "https://cleantechnica.com/2026/11/12/dutch-green-hydrogen-subsidies-four-projects-cancelled/",
-      "source": "CleanTechnica",
-      "date": "2026-11-12T22:40:02Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "The Deadliest Part of a Wildfire Might Not Be the Blaze",
-      "link": "https://heatmap.news/adaptation/indonesia-smoke",
-      "source": "Heatmap",
-      "date": "2026-11-12T22:13:55Z",
-      "tag": "Water"
-    },
-    {
-      "title": "BYD wins round one in Defender-copycat battle as JLR is told to destroy documents",
-      "link": "https://electrek.co/2026/11/12/byd-wins-round-one-defender-copycat-battle-jlr-told-to-destroy-documents/",
-      "source": "Electrek",
-      "date": "2026-11-12T22:03:03Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Ohio GOP circulates bill that would stymie coal plant closures",
-      "link": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
-      "source": "Canary Media",
-      "date": "2026-11-12T22:00:00Z",
-      "tag": "Energy"
     }
   ]
 }
