@@ -1,7 +1,112 @@
 {
-  "updated": "2026-11-21T20:09:50Z",
+  "updated": "2026-11-22T20:24:19Z",
   "failed_feeds": [],
   "items": [
+    {
+      "title": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)",
+      "link": "https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
+      "source": "Electrek",
+      "date": "2026-11-22T19:44:00Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "UN’s COP31 Climate Conference Fizzles Out as Global Policy Divides Deepen",
+      "link": "https://insideclimatenews.org/news/22112026/uns-cop31-climate-conference-fizzles-out-as-global-policy-divides-deepen/",
+      "source": "Inside Climate News",
+      "date": "2026-11-22T18:54:50Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "The Insurance Affordability Crisis: Risks, Resilience, and Solutions",
+      "link": "https://cleantechnica.com/2026/11/22/the-insurance-affordability-crisis-risks-resilience-and-solutions/",
+      "source": "CleanTechnica",
+      "date": "2026-11-22T17:03:31Z",
+      "tag": "Buildings"
+    },
+    {
+      "title": "Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery",
+      "link": "https://cleantechnica.com/2026/11/22/elon-musk-ukraine-spacex-starshield-democrats-government-contracts-risk/",
+      "source": "CleanTechnica",
+      "date": "2026-11-22T15:20:11Z",
+      "tag": "Policy"
+    },
+    {
+      "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+      "link": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
+      "source": "Electrek",
+      "date": "2026-11-22T14:22:49Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "How wildfire litigation became big business in America",
+      "link": "https://grist.org/wildfires/how-wildfire-litigation-became-big-business-in-america/",
+      "source": "Grist",
+      "date": "2026-11-22T14:00:00Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+      "link": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/",
+      "source": "Electrek",
+      "date": "2026-11-22T13:01:35Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane",
+      "link": "https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/",
+      "source": "Electrek",
+      "date": "2026-11-22T12:20:00Z",
+      "tag": "Buildings"
+    },
+    {
+      "title": "The Defenders of Mexico’s Scorpion Reef",
+      "link": "https://insideclimatenews.org/news/22112026/protecting-mexicos-scorpion-reef-from-climate-change-illegal-fishing/",
+      "source": "Inside Climate News",
+      "date": "2026-11-22T10:00:00Z",
+      "tag": "Water"
+    },
+    {
+      "title": "Ford Begins Producing Its Own LFP Batteries",
+      "link": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
+      "source": "CleanTechnica",
+      "date": "2026-11-22T04:49:26Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
+      "link": "https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/",
+      "source": "Electrek",
+      "date": "2026-11-22T02:13:24Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE",
+      "link": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/",
+      "source": "Electrek",
+      "date": "2026-11-22T01:02:38Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Here are 7 great reasons rural drivers SHOULD embrace EVs in 2027",
+      "link": "https://electrek.co/2026/11/21/here-are-6-great-reasons-rural-drivers-should-embrace-evs-in-2026/",
+      "source": "Electrek",
+      "date": "2026-11-21T23:50:00Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!",
+      "link": "https://cleantechnica.com/2026/11/21/who-needs-automatic-driving-you-love-to-drive-however-for-many-handicapped-teslas-full-self-driving-is-the-only-option-its-use-it-or-dont-drive/",
+      "source": "CleanTechnica",
+      "date": "2026-11-21T21:34:39Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Una tormenta tropical o subtropical podría formarse frente a Florida este viernes, mientras aumenta la amenaza de inundaciones costeras",
+      "link": "https://yaleclimateconnections.org/2026/11/una-tormenta-tropical-o-subtropical-podria-formarse-frente-a-florida-este-viernes-mientras-aumenta-la-amenaza-de-inundaciones-costeras/",
+      "source": "Yale Climate Connections",
+      "date": "2026-11-21T20:49:22Z",
+      "tag": "Other"
+    },
     {
       "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
       "link": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
@@ -316,111 +421,6 @@
       "source": "Electrek",
       "date": "2026-11-20T15:29:31Z",
       "tag": "Other"
-    },
-    {
-      "title": "Senate OKs permitting bill that would boost clean and dirty energy",
-      "link": "https://www.canarymedia.com/articles/clean-energy/senate-oks-permitting-bill-that-would-boost-clean-and-dirty-energy",
-      "source": "Canary Media",
-      "date": "2026-11-20T14:00:00Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "The Senate Just Passed Permitting Reform",
-      "link": "https://heatmap.news/am/permitting-reform-iea",
-      "source": "Heatmap",
-      "date": "2026-11-20T13:31:28Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "What is BAAJA? Your permitting reform questions, answered",
-      "link": "https://yaleclimateconnections.org/2026/11/what-is-baaja-your-permitting-reform-questions-answered/",
-      "source": "Yale Climate Connections",
-      "date": "2026-11-20T12:00:00Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Free online tool helps landowners understand growing threats to U.S. forests",
-      "link": "https://yaleclimateconnections.org/2026/11/free-online-tool-helps-landowners-understand-growing-threats-to-u-s-forests/",
-      "source": "Yale Climate Connections",
-      "date": "2026-11-20T11:59:00Z",
-      "tag": "Other"
-    },
-    {
-      "title": "Double guns: ultra-class haul truck packs dual-gun MCS charging, 4 MWh battery",
-      "link": "https://electrek.co/2026/11/20/double-guns-ultra-class-haul-truck-packs-dual-gun-mcs-charging-4-mwh-battery/",
-      "source": "Electrek",
-      "date": "2026-11-20T11:55:00Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Blue Wave Trickled Down to Little-Known Utility Commissions",
-      "link": "https://insideclimatenews.org/news/20112026/utility-commissions-democrat-election-victories/",
-      "source": "Inside Climate News",
-      "date": "2026-11-20T10:00:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Data centers’ electricity use is soaring — especially in these states",
-      "link": "https://grist.org/energy/data-centers-use-2-of-us-electricity-in-some-states-the-share-is-far-higher/",
-      "source": "Grist",
-      "date": "2026-11-20T09:45:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Is it OK to want a ‘normal life’ during the climate crisis?",
-      "link": "https://grist.org/culture/ask-a-climate-therapist-advice-normal-life-during-climate-crisis/",
-      "source": "Grist",
-      "date": "2026-11-20T09:30:00Z",
-      "tag": "Buildings"
-    },
-    {
-      "title": "It’s official: 2026 is the year of lost solar in North Carolina",
-      "link": "https://www.canarymedia.com/articles/solar/2026-year-of-lost-solar-north-carolina",
-      "source": "Canary Media",
-      "date": "2026-11-20T08:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "It’s another banner year for batteries in the US",
-      "link": "https://www.canarymedia.com/articles/batteries/another-banner-year-us-energy-storage-installations",
-      "source": "Canary Media",
-      "date": "2026-11-20T08:30:00Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "AGCO Celebrates Construction Milestone at Olmedo Solar Project in Spain",
-      "link": "https://cleantechnica.com/2026/11/19/agco-celebrates-construction-milestone-at-olmedo-solar-project-in-spain/",
-      "source": "CleanTechnica",
-      "date": "2026-11-20T04:56:03Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Inspiring Hearts & Minds on Solar",
-      "link": "https://cleantechnica.com/2026/11/19/inspiring-hearts-minds-on-solar/",
-      "source": "CleanTechnica",
-      "date": "2026-11-20T04:19:09Z",
-      "tag": "Energy"
-    },
-    {
-      "title": "Leapmotor Produces Its 2 Millionth EV",
-      "link": "https://cleantechnica.com/2026/11/19/leapmotor-produces-its-2-millionth-ev/",
-      "source": "CleanTechnica",
-      "date": "2026-11-20T03:20:15Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Volkswagen ID Buzz Made For Sleeping In",
-      "link": "https://cleantechnica.com/2026/11/19/volkswagen-id-buzz-made-for-sleeping-in/",
-      "source": "CleanTechnica",
-      "date": "2026-11-20T02:15:12Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "GM’s V2G pilot wants to pay California drivers for power from parked EVs",
-      "link": "https://electrek.co/2026/11/19/gms-v2g-pilot-wants-to-pay-california-drivers-for-power-from-parked-evs/",
-      "source": "Electrek",
-      "date": "2026-11-20T00:37:45Z",
-      "tag": "Energy"
     }
   ]
 }
