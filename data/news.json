@@ -1,7 +1,112 @@
 {
-  "updated": "2026-11-25T22:37:26Z",
+  "updated": "2026-11-26T22:27:05Z",
   "failed_feeds": [],
   "items": [
+    {
+      "title": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
+      "link": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
+      "source": "CleanTechnica",
+      "date": "2026-11-26T19:42:22Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
+      "link": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/",
+      "source": "Electrek",
+      "date": "2026-11-26T19:00:00Z",
+      "tag": "Other"
+    },
+    {
+      "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+      "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
+      "source": "Electrek",
+      "date": "2026-11-26T17:33:21Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Seabed Mining Has a Refinery Problem Worth Billions",
+      "link": "https://cleantechnica.com/2026/11/26/seabed-mining-refinery-problem-billions/",
+      "source": "CleanTechnica",
+      "date": "2026-11-26T16:55:51Z",
+      "tag": "Materials"
+    },
+    {
+      "title": "Plug-in Solar UL Certification for US Safety Regs — What UL 3700 Does & Doesn’t Say",
+      "link": "https://cleantechnica.com/2026/11/26/plug-in-solar-ul-certification-for-us-safety-regs-what-ul-3700-does-doesnt-say/",
+      "source": "CleanTechnica",
+      "date": "2026-11-26T14:49:46Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+      "link": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+      "source": "Electrek",
+      "date": "2026-11-26T14:36:17Z",
+      "tag": "Other"
+    },
+    {
+      "title": "These are the e-bike sales you should really care about this Black Friday",
+      "link": "https://electrek.co/2026/11/26/these-are-the-e-bike-sales-you-should-really-care-about-this-black-friday/",
+      "source": "Electrek",
+      "date": "2026-11-26T13:31:29Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "A retired cranberry bog is helping Nantucket fight flooding",
+      "link": "https://yaleclimateconnections.org/2026/11/a-retired-cranberry-bog-is-helping-nantucket-fight-flooding/",
+      "source": "Yale Climate Connections",
+      "date": "2026-11-26T11:59:00Z",
+      "tag": "Water"
+    },
+    {
+      "title": "If I could only use one bike lock, it’d be this: FoldyLock Elite 110 review",
+      "link": "https://electrek.co/2026/11/26/if-i-could-only-use-one-bike-lock-itd-be-this-foldylock-elite-110-review/",
+      "source": "Electrek",
+      "date": "2026-11-26T10:22:56Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "Concrete Floods Walls and an Elevated East River Park Now Protect a Swath of Lower Manhattan",
+      "link": "https://insideclimatenews.org/news/26112026/manhattan-east-river-park-flood-resiliency/",
+      "source": "Inside Climate News",
+      "date": "2026-11-26T10:00:00Z",
+      "tag": "Water"
+    },
+    {
+      "title": "Hybrids Are a Waypoint, Not the Destination",
+      "link": "https://cleantechnica.com/2026/11/25/hybrids-are-a-waypoint-not-the-destination/",
+      "source": "CleanTechnica",
+      "date": "2026-11-26T00:41:15Z",
+      "tag": "Transport"
+    },
+    {
+      "title": "DTE Energy Advances New Michigan Solar Projects to Create Jobs & Save Customers Money on Fuel Costs",
+      "link": "https://cleantechnica.com/2026/11/25/dte-energy-advances-new-michigan-solar-projects-to-create-jobs-save-customers-money-on-fuel-costs/",
+      "source": "CleanTechnica",
+      "date": "2026-11-26T00:03:28Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "Europe’s Solar Problem Is No Longer Solar",
+      "link": "https://cleantechnica.com/2026/11/25/europes-solar-problem-is-no-longer-solar/",
+      "source": "CleanTechnica",
+      "date": "2026-11-25T23:51:55Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "SC Solar Showcases at RE+ 2026 Garner Global Attention",
+      "link": "https://cleantechnica.com/2026/11/25/sc-solar-showcases-at-re-2026-garner-global-attention/",
+      "source": "CleanTechnica",
+      "date": "2026-11-25T23:20:05Z",
+      "tag": "Energy"
+    },
+    {
+      "title": "The Mayor of the East Midlands is Backing a £47.55 Million Investment to Bring 189 Battery-Electric Buses",
+      "link": "https://cleantechnica.com/2026/11/25/the-mayor-of-the-east-midlands-is-backing-a-47-55-million-investment-to-bring-189-battery-electric-buses/",
+      "source": "CleanTechnica",
+      "date": "2026-11-25T22:59:52Z",
+      "tag": "Transport"
+    },
     {
       "title": "New Trump Tariffs — Nice",
       "link": "https://cleantechnica.com/2026/11/25/new-trump-tariffs-nice/",
@@ -31,7 +136,7 @@
       "tag": "Transport"
     },
     {
-      "title": "After Detonating Five Tons of Lead Explosives, Army Says Health Risks Are ‘Close to Zero’",
+      "title": "After Detonating Five Tons of Lead Explosives in Iowa, Army Says Health Risks Are ‘Close to Zero’",
       "link": "https://insideclimatenews.org/news/25112026/iowa-lead-explosives-health-risks-close-to-zero/",
       "source": "Inside Climate News",
       "date": "2026-11-25T21:24:20Z",
@@ -315,111 +420,6 @@
       "link": "https://insideclimatenews.org/news/24112026/iowa-lead-blast-health-impacts/",
       "source": "Inside Climate News",
       "date": "2026-11-24T23:05:20Z",
-      "tag": "Water"
-    },
-    {
-      "title": "Digital Outages Are Rampant All Across America. Is AI to blame?",
-      "link": "https://cleantechnica.com/2026/11/24/digital-outages-are-rampant-all-across-america-is-ai-to-blame/",
-      "source": "CleanTechnica",
-      "date": "2026-11-24T22:25:39Z",
-      "tag": "Other"
-    },
-    {
-      "title": "Cadillac’s luxury 3-row EV just got more expensive, now starting at over $80,000",
-      "link": "https://electrek.co/2026/11/24/cadillacs-3-row-ev-more-expensive-now-starting-at-80k/",
-      "source": "Electrek",
-      "date": "2026-11-24T22:20:15Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
-      "link": "https://electrek.co/2026/11/24/vw-will-pay-ev-drivers-in-germany-up-to-e720-to-plug-in-at-home/",
-      "source": "Electrek",
-      "date": "2026-11-24T20:28:22Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Rotterdam’s Methanol Expansion Is Not an Inland Shipping Fuel Strategy",
-      "link": "https://cleantechnica.com/2026/11/24/rotterdams-methanol-expansion-is-not-an-inland-shipping-fuel-strategy/",
-      "source": "CleanTechnica",
-      "date": "2026-11-24T20:27:51Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [Images]",
-      "link": "https://electrek.co/2026/11/24/hyundai-ioniq-3-spotted-us-affordable-ev-images/",
-      "source": "Electrek",
-      "date": "2026-11-24T20:07:39Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Clean Port Coalition Urges EU To Accelerate Port Electrification",
-      "link": "https://cleantechnica.com/2026/11/24/clean-port-coalition-urges-eu-to-accelerate-port-electrification/",
-      "source": "CleanTechnica",
-      "date": "2026-11-24T19:22:44Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "A wild Thanksgiving nor’easter will bring shrieking winds, pounding rain, and record-approaching water levels",
-      "link": "https://yaleclimateconnections.org/2026/11/a-wild-thanksgiving-noreaster-will-bring-shrieking-winds-pounding-rain-and-record-approaching-water-levels/",
-      "source": "Yale Climate Connections",
-      "date": "2026-11-24T19:22:10Z",
-      "tag": "Water"
-    },
-    {
-      "title": "Toxic Port Pollution Costs Europe €2.5bn A Year In Health & Environmental Damages — Study",
-      "link": "https://cleantechnica.com/2026/11/24/toxic-port-pollution-costs-europe-e2-5bn-a-year-in-health-environmental-damages-study/",
-      "source": "CleanTechnica",
-      "date": "2026-11-24T19:14:35Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "Bluetti Elite 300 power station exclusively at $1,044, ECOVACS LiDAR Pro robot mower lows from $949, GoTrax kids go kart, more",
-      "link": "https://electrek.co/2026/11/24/bluetti-elite-300-power-station-ecovacs-lidar-pro-robot-mower-gotrax-go-kart-more/",
-      "source": "Electrek",
-      "date": "2026-11-24T19:00:00Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
-      "link": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/",
-      "source": "Electrek",
-      "date": "2026-11-24T17:58:40Z",
-      "tag": "Buildings"
-    },
-    {
-      "title": "Two tech companies tried to reinvent the e-bike. Why DJI’s Amflow soared while Rivian’s ALSO floundered",
-      "link": "https://electrek.co/2026/11/24/two-tech-companies-tried-to-reinvent-the-e-bike-why-djis-amflow-soared-while-rivians-also-floundered/",
-      "source": "Electrek",
-      "date": "2026-11-24T17:19:16Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric.",
-      "link": "https://cleantechnica.com/2026/11/24/90-new-vehicle-models-were-just-introduced-in-colombias-largest-automotive-exhibition-55-were-electric/",
-      "source": "CleanTechnica",
-      "date": "2026-11-24T17:19:11Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "The Porsche Boxster EV is finally almost here, and it will be the most powerful 718 yet [Images]",
-      "link": "https://electrek.co/2026/11/24/porsche-boxster-ev-coming-most-powerful-718-ever-images/",
-      "source": "Electrek",
-      "date": "2026-11-24T17:16:08Z",
-      "tag": "Transport"
-    },
-    {
-      "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
-      "link": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
-      "source": "Carbon Brief",
-      "date": "2026-11-24T17:06:20Z",
-      "tag": "Policy"
-    },
-    {
-      "title": "Britain’s ‘Rigged’ Fishing Industry Is Fueling Overfishing",
-      "link": "https://insideclimatenews.org/news/24112026/uk-fishing-industry-fuels-overfishing/",
-      "source": "Inside Climate News",
-      "date": "2026-11-24T17:03:01Z",
       "tag": "Water"
     }
   ]
